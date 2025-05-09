@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "cbe745b8e98f3549",
+    "type": "split",
+    "children": [
+      {
+        "id": "c459e38a47c58d9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bf5aebaaf05a215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/LiteratureNote/ObsidianをGitHubを使ってWindowsMacOSLinuxiOSAndroidで同期する方法｜如月翔也.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ObsidianをGitHubを使ってWindowsMacOSLinuxiOSAndroidで同期する方法｜如月翔也"
+            }
+          },
+          {
+            "id": "fa8ae61dd65412ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily"
+            }
+          },
+          {
+            "id": "ed37a87ba29825d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memo"
+            }
+          },
+          {
+            "id": "cb8c63385f2f0474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Template"
+            }
+          }
+        ]
+      },
+      {
+        "id": "716f1309fd2de55f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa5a545ed642737e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/PermanentNote/Obsidian×Cursorセットアップ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian×Cursorセットアップ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "253384bb9997fa63",
+    "type": "split",
+    "children": [
+      {
+        "id": "472c9b7ca5a6f215",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c72646e7e024c7ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "cf578a2c912d32eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "f90ad7592c04cddb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3fedf576311fe310",
+    "type": "split",
+    "children": [
+      {
+        "id": "e21c4b90958133fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a44e6b7428d31b1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "テストファイル.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "テストファイルへのバックリンク"
+            }
+          },
+          {
+            "id": "ed3c185cf42fec20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "テストファイル.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "テストファイルからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "62889ec453326c41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "6fee583d60f8c083",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "テストファイル.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "テストファイルのアウトライン"
+            }
+          },
+          {
+            "id": "f55a9e046f63daa4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "517a7773a80da21b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c72646e7e024c7ad",
+  "lastOpenFiles": [
+    "Zettelkasten/Zettelkastenアプローチ.md",
+    "Zettelkasten/LiteratureNote/ObsidianをGitHubを使ってWindowsMacOSLinuxiOSAndroidで同期する方法｜如月翔也.md",
+    "Zettelkasten/Zettelkastenの運用.md",
+    "Zettelkasten/LiteratureNote/単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer.md",
+    "無題のファイル.canvas",
+    "Zettelkasten/LiteratureNote/メモ管理は Obsidian in  Cursor が最強｜松濤Vimmer.md",
+    "Zettelkasten/LiteratureNote/Obsidianに記事メモをためる Web Clipper（ブラウザのタブを全部閉じたい）.md",
+    "Zettelkasten/LiteratureNote/「Obsidian」と「Cursor」を使って、noteの記事をどんどこ書く｜akane.md",
+    "Zettelkasten/LiteratureNote/Cursorに自分のnoteとObsidianを読み込ませて記事を書いてもらう｜dora_e_m.md",
+    "Zettelkasten/PermanentNote/Obsidian×Cursorセットアップ.md",
+    "2025-05-16.md",
+    "Daily.md",
+    "Zettelkasten/LiteratureNote/note（ノート）.md",
+    "note（ノート）.md",
+    "Memo.md",
+    "テスト.md",
+    "テスト.md",
+    "Template.md",
+    "Zenn.md",
+    "Welcome.md",
+    "Zettelkasten/IndexNote",
+    "Zettelkasten/PermanentNote.md",
+    "Zettelkasten/IndexNote.md",
+    "Zettelkasten/FleetingNote.md",
+    "FleetingNote",
+    "Zettelkasten/FleetingNote",
+    "Zettelkasten/PermanentNote",
+    "Zettelkasten/LiteratureNote.md",
+    "Zettelkasten/LiteratureNote",
+    "Clippings/メモ管理は Obsidian in  Cursor が最強｜松濤Vimmer.md",
+    "Clippings",
+    "Zettelkasten"
+  ]
+}
