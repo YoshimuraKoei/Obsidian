@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/LiteratureNote/ObsidianをGitHubを使ってWindowsMacOSLinuxiOSAndroidで同期する方法｜如月翔也.md",
+                "file": "Zettelkasten/LiteratureNote/「Obsidian Git」を導入してみた。｜devlive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ObsidianをGitHubを使ってWindowsMacOSLinuxiOSAndroidで同期する方法｜如月翔也"
+              "title": "「Obsidian Git」を導入してみた。｜devlive"
             }
           },
           {
@@ -251,10 +251,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c72646e7e024c7ad",
+  "active": "2bf5aebaaf05a215",
   "lastOpenFiles": [
-    "Zettelkasten/Zettelkastenアプローチ.md",
     "Zettelkasten/LiteratureNote/ObsidianをGitHubを使ってWindowsMacOSLinuxiOSAndroidで同期する方法｜如月翔也.md",
+    "Zettelkasten/LiteratureNote/「Obsidian Git」を導入してみた。｜devlive.md",
+    "Zettelkasten/Zettelkastenアプローチ.md",
     "Zettelkasten/Zettelkastenの運用.md",
     "Zettelkasten/LiteratureNote/単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer.md",
     "無題のファイル.canvas",
