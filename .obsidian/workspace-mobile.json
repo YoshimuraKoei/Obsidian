@@ -13,12 +13,12 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "aFile": "テスト.md",
-                "bFile": "テスト.md",
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
                 "aRef": ""
               },
               "icon": "git-pull-request",
-              "title": "Diff: テスト"
+              "title": "Diff: workspace-mobile.json"
             }
           }
         ]
@@ -171,8 +171,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54371f0b2c0346bc",
+  "active": "263c27e6f6d05f2d",
   "lastOpenFiles": [
+    "Daily/2025-05-09.md",
+    "/Zettelkasten/LiteratureNote/スマホのObsidianをGitで同期(2024.11).md",
+    "Zettelkasten/LiteratureNote/スマホのObsidianをGitで同期(2024.11).md",
+    "/Zettelkasten/LiteratureNote",
+    "/Zettelkasten",
+    "/Daily/2025-05-09.md",
+    "Daily",
+    "/Daily",
+    "Zettelkasten/LiteratureNote/「Obsidian Git」を導入してみた。｜devlive.md",
     "テスト.md",
     "Zettelkasten/Zettelkastenアプローチ.md",
     "Zettelkasten/Zettelkastenの運用.md",
@@ -180,7 +189,6 @@
     "Zettelkasten/LiteratureNote/単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer.md",
     "Zettelkasten/LiteratureNote/メモ管理は Obsidian in  Cursor が最強｜松濤Vimmer.md",
     "Zettelkasten/LiteratureNote/「Obsidian」と「Cursor」を使って、noteの記事をどんどこ書く｜akane.md",
-    "Zettelkasten/LiteratureNote/「Obsidian Git」を導入してみた。｜devlive.md",
     "Zettelkasten/LiteratureNote/ObsidianをGitHubを使ってWindowsMacOSLinuxiOSAndroidで同期する方法｜如月翔也.md",
     "Zettelkasten/LiteratureNote/Obsidianに記事メモをためる Web Clipper（ブラウザのタブを全部閉じたい）.md",
     "Zettelkasten/LiteratureNote/Cursorに自分のnoteとObsidianを読み込ませて記事を書いてもらう｜dora_e_m.md",
