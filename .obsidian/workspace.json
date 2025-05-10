@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-05-09.md",
+                "file": "テスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-09"
+              "title": "テスト"
             }
           },
           {
@@ -251,11 +251,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "517a7773a80da21b",
+  "active": "2bf5aebaaf05a215",
   "lastOpenFiles": [
+    "Template.md",
+    "Zettelkasten/LiteratureNote/スマホのObsidianをGitで同期(2024.11).md",
+    "Daily/2025-05-09.md",
     "Daily",
     "Daily.md",
-    "Daily/2025-05-09.md",
     "Zettelkasten/PermanentNote/Obsidian×Cursorセットアップ.md",
     "Zettelkasten/LiteratureNote/単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer.md",
     "Zettelkasten/LiteratureNote/「Obsidian Git」を導入してみた。｜devlive.md",
@@ -273,7 +275,6 @@
     "Memo.md",
     "テスト.md",
     "テスト.md",
-    "Template.md",
     "Zenn.md",
     "Welcome.md",
     "Zettelkasten/IndexNote",
