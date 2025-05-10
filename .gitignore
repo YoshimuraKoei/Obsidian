@@ -1,0 +1,11 @@
+# Obsidian のワークスペース／UI 状態キャッシュを無視
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+
+# （オプション）プラグイン設定なども無視したいなら
+# .obsidian/plugins/
+
+# OS が撒きがちなゴミ
+.DS_Store
+.trash/
