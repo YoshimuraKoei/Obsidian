@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "テスト.md",
+                "file": "Zettelkasten/LiteratureNote/スマホのObsidianをGitで同期(2024.11).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "テスト"
+              "title": "スマホのObsidianをGitで同期(2024.11)"
             }
           },
           {
@@ -253,6 +253,7 @@
   },
   "active": "2bf5aebaaf05a215",
   "lastOpenFiles": [
+    "テスト.md",
     "Template.md",
     "Zettelkasten/LiteratureNote/スマホのObsidianをGitで同期(2024.11).md",
     "Daily/2025-05-09.md",
@@ -273,8 +274,6 @@
     "Zettelkasten/LiteratureNote/note（ノート）.md",
     "note（ノート）.md",
     "Memo.md",
-    "テスト.md",
-    "テスト.md",
     "Zenn.md",
     "Welcome.md",
     "Zettelkasten/IndexNote",
