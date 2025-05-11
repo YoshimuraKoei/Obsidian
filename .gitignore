@@ -1,4 +1,5 @@
 # Obsidian のワークスペース／UI 状態キャッシュを無視
+.obsidian/
 workspace.json
 workspace-mobile.json
 app.json
