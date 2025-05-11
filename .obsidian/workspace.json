@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/LiteratureNote/Obsidianモバイルの「面倒」をLINEで解決！プラグイン「LINE Notes Sync」導入＆活用ガイド｜松濤Vimmer.md",
+                "file": "Memo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidianモバイルの「面倒」をLINEで解決！プラグイン「LINE Notes Sync」導入＆活用ガイド｜松濤Vimmer"
+              "title": "Memo"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/LiteratureNote/Obsidianモバイルの「面倒」をLINEで解決！プラグイン「LINE Notes Sync」導入＆活用ガイド｜松濤Vimmer.md",
+                "file": "Memo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidianモバイルの「面倒」をLINEで解決！プラグイン「LINE Notes Sync」導入＆活用ガイド｜松濤Vimmerのアウトライン"
+              "title": "Memoのアウトライン"
             }
           },
           {
@@ -186,13 +186,15 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "line-notes-sync:Sync LINE messages": false
     }
   },
-  "active": "aa5a545ed642737e",
+  "active": "c72646e7e024c7ad",
   "lastOpenFiles": [
-    "Daily/2025-05-10.md",
+    "Mobile",
     "Zettelkasten/LiteratureNote/Obsidianモバイルの「面倒」をLINEで解決！プラグイン「LINE Notes Sync」導入＆活用ガイド｜松濤Vimmer.md",
+    "Daily/2025-05-10.md",
     "Daily/2025-05-11.md",
     "Zettelkasten/PermanentNote/Obsidian×Cursorセットアップ.md",
     "Daily/2025-05-09.md",
@@ -219,7 +221,6 @@
     "Welcome.md",
     "Zettelkasten/IndexNote",
     "Zettelkasten/PermanentNote.md",
-    "Zettelkasten/IndexNote.md",
     "FleetingNote",
     "Zettelkasten/FleetingNote",
     "Zettelkasten/PermanentNote",
