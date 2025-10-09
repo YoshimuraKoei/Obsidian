@@ -1,0 +1,448 @@
+\documentclass[11pt,a4paper]{article}
+
+% 日本語対応パッケージ
+\usepackage[haranoaji]{luatexja}
+\usepackage{luatexja-fontspec}
+\usepackage{fontspec}
+
+% 基本パッケージ
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{bm}
+
+\geometry{left=25mm,right=25mm,top=25mm,bottom=25mm}
+
+\title{レコメンドシステムに対する \\ ポイズニング攻撃のサーベイ論文報告}
+
+\author{第1回リクルートMTG}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{概要}
+本報告では、レコメンドシステムに対するポイズニング攻撃に関する包括的なサーベイ論文「Manipulating Recommender Systems: A Survey of Poisoning Attacks and Countermeasures」の内容を整理し、主要な知見と今後の研究方向性について報告する。
+
+\section{ポイズニング攻撃の種類}
+
+\subsection{攻撃手法の分類}
+\begin{enumerate}
+    \item \textbf{古典的なヒューリスティック攻撃}
+    \begin{itemize}
+        \item あらかじめ定められたヒューリスティックなルールやアルゴリズムに基づいた攻撃
+        \item この攻撃自体は学習を伴わない
+        \item 比較的単純に見えるが効果的
+    \end{itemize}
+    
+    \item \textbf{AIベースの攻撃}
+    \begin{itemize}
+        \item 機械学習モデルを利用して実行される攻撃
+        \item 敵対的生成ネットワークなどを用いて既存ユーザーの評価パターンを学習し、より検知されにくいデータを偽装
+        \item 学習によって進化する点が大きな特徴
+    \end{itemize}
+\end{enumerate}
+
+\subsection{市況の変化}
+\begin{itemize}
+    \item 過去7年間でレコメンドシステムに対する攻撃数が増加
+    \item 古典的な攻撃からAIベースの攻撃への明確な移行が見られる
+    \item 2020年から2023年の期間では、AIベースのポイズニング攻撃がほとんどを占める
+\end{itemize}
+
+\section{ポイズニング攻撃と敵対的攻撃の違い}
+
+\subsection{敵対的攻撃}
+\begin{itemize}
+    \item モデル学習後の推薦段階で仕掛けられる
+    \item 根底にあるモデルを変更することなく、推薦時にレコメンドシステムの出力を不正にできるサンプルを見つける
+    \item 入力データを操作することで攻撃中にシステムを一時的に欺く
+    \item 具体例：ログデータの改ざんによる入力値の変更
+\end{itemize}
+
+\subsection{ポイズニング攻撃}
+\begin{itemize}
+    \item モデルのトレーニング段階で仕掛けられる
+    \item モデルのトレーニングデータを汚染し、攻撃者に有益な結果をもたらす攻撃モデルへと変換させることを目的とする
+    \item 具体例：悪意のあるログデータの注入による訓練妨害
+\end{itemize}
+
+\section{レコメンドシステムの概要}
+
+主要なレコメンドシステムの種類：
+\begin{itemize}
+    \item 行列分解ベース
+    \item グラフベース
+    \item アソシエーションルールベース
+    \item 近傍ベース
+    \item ディープラーニングベース
+\end{itemize}
+
+\subsection{実用的なアーキテクチャ}
+\textbf{リトリーバル（候補生成）フェーズ → ランキング（LightGBM）フェーズ}
+
+\section{ポイズニング攻撃の分類}
+
+\subsection{攻撃の目的による分類}
+\begin{enumerate}
+    \item \textbf{非ターゲット型}
+    \begin{itemize}
+        \item エラーの最大化により役に立たなくする目的
+        \item 研究は比較的少ない
+    \end{itemize}
+    
+    \item \textbf{ターゲット型}
+    \begin{itemize}
+        \item 特定のターゲットアイテムの人気を増減させる目的
+        \item プロモーション攻撃 or デモーション攻撃
+        \item 攻撃のインセンティブが明確なので、研究が多い
+    \end{itemize}
+\end{enumerate}
+
+\subsection{敵対者の知識による分類}
+\begin{enumerate}
+    \item \textbf{ブラックボックス攻撃}
+    \begin{itemize}
+        \item アーキテクチャ、予測関数、パラメータ、相互作用履歴Rを知らない
+    \end{itemize}
+    
+    \item \textbf{グレーボックス攻撃}
+    \begin{itemize}
+        \item 限定的な知識を持つ
+        \item ユーザー・アイテム間の相互作用行列Rに悪意のあるデータをインジェクトするのみ
+        \item 特に重要になる攻撃手法
+    \end{itemize}
+    
+    \item \textbf{ホワイトボックス攻撃}
+    \begin{itemize}
+        \item 徹底的な知識を持つ
+        \item 予測関数、パラメータ、相互作用の履歴Rを完全に把握
+    \end{itemize}
+\end{enumerate}
+
+\subsection{攻撃の影響による分類}
+\begin{enumerate}
+    \item \textbf{システムの可用性（Availability）への影響}
+    \begin{itemize}
+        \item 主にホワイトボックス攻撃とグレーボックス攻撃が入力データを妨害
+        \item 研究の3分の2を占める
+    \end{itemize}
+    
+    \item \textbf{複製（Replication）の試み}
+    \begin{itemize}
+        \item ブラックボックス攻撃はシステムの可用性を損なう点では効率が劣る
+        \item シミュレーションとしてリバースエンジニアリングを試行
+        \item 研究の3分の1を占める
+    \end{itemize}
+    
+    \item \textbf{不可知性（Unnoticeability）}
+    \begin{itemize}
+        \item データ特性を維持することでアプローチが気付かれないようにする
+    \end{itemize}
+\end{enumerate}
+
+\section{攻撃者の能力}
+
+\subsection{偽ユーザーの作成}
+\begin{itemize}
+    \item 偽ユーザーの最大数（攻撃サイズ）はシステム全体のユーザー数よりはるかに少ない
+    \item 予算など運用上の観点から制限される
+\end{itemize}
+
+\subsection{偽評価の作成}
+\begin{itemize}
+    \item 注入できる評価の数にはプロファイルサイズと呼ばれる上限kが存在
+    \item 現実のユーザーはシステム内のごく一部のアイテムとしかやり取りしないため
+    \item 評価の値にも上界と下界がある
+    \item 実際の評価行列の近傍である必要がある
+\end{itemize}
+
+\subsection{その他の攻撃手法}
+\begin{itemize}
+    \item 偽の共起作成：ターゲットアイテムと関連付けられているユーザーに対して他のアイテムへの訪問を注入
+    \item 偽リンクの追加：知識グラフの脆弱性を突く
+    \item 偽画像の使用：主にコールドスタート問題の対処のための画像認識を悪用
+\end{itemize}
+
+\subsection{研究の分布}
+\begin{itemize}
+    \item 偽ユーザー × 偽評価の研究が大部分
+    \item 偽の共起は一部
+    \item 偽リンク、偽画像はごくわずか
+\end{itemize}
+
+\section{攻撃のアプローチ}
+
+\subsection{インジェクション}
+\begin{itemize}
+    \item 限定的な知識しか持たない場合に使用
+    \item うまく設計された少数のユーザーの注入
+    \item 研究のすべての手法が何らかの形で偽ユーザーと評価を訓練データに注入している
+\end{itemize}
+
+\subsection{シミュレーション}
+\begin{itemize}
+    \item ブラックボックスの状況で使用
+    \item 通常、標的のレコメンドシステムをシミュレートし代替モデルを訓練
+    \item インジェクションに加えてシミュレーションも行う研究は少数
+\end{itemize}
+
+\section{ポイズニング攻撃のグループ分け}
+
+\subsection{モデル非依存攻撃（Model-agnostic attacks）}
+\begin{itemize}
+    \item あらゆるレコメンドシステムを攻撃
+    \item 特定のモデルのアルゴリズムに依存しない
+\end{itemize}
+
+\subsection{モデル内在攻撃（Model-intrinsic attacks）}
+\begin{itemize}
+    \item 特定の種類のレコメンドシステムを標的とする攻撃
+    \item 例えばCFや行列分解など
+\end{itemize}
+
+\subsection{攻撃手法の分布}
+\begin{itemize}
+    \item 行列分解ベースに対する攻撃（Bo Liなど）が最多
+    \item グラフベースに対する攻撃が次に多い
+    \item 近隣ベース、ディープラーニングベースは各1件
+    \item FDRSベースは2件が注目に値する
+\end{itemize}
+
+\section{ドメインとインタラクションの種類}
+
+\subsection{対象ドメイン}
+\begin{itemize}
+    \item 映画
+    \item POI（Point Of Interest）：観光地、商業施設、公共施設など
+    \item 位置情報サービス
+    \item 引用ネットワーク
+    \item ニュース
+    \item その他多数
+\end{itemize}
+
+\textbf{結論：ポイズニング攻撃の影響は広範囲にわたる。オンラインデータの完全性と信頼性を守るため、堅牢な対策を開発する必要がある。}
+
+\subsection{インタラクションの種類}
+\begin{itemize}
+    \item 明示的なインタラクションの研究が8〜9割
+    \item 暗黙的なインタラクションの研究はわずか
+\end{itemize}
+
+\section{ポイズニング攻撃の評価指標}
+
+\subsection{主要な評価指標}
+\begin{enumerate}
+    \item \textbf{HR@K（The hit rate ratio）}
+    \begin{itemize}
+        \item 最も優勢で、研究の3分の2で採用
+    \end{itemize}
+    
+    \item \textbf{nDCG@K（Normalized discounted cumulative gain）}
+    \begin{itemize}
+        \item 次いで研究の4分の1で採用
+    \end{itemize}
+\end{enumerate}
+
+上記2つの指標以外は一般的ではない。
+
+\section{データセット}
+
+\subsection{使用頻度の高いデータセット}
+\begin{itemize}
+    \item \textbf{MovieLens}が研究の3分の2以上で使用される
+    \item \textbf{Amazon}の様々な製品カテゴリのデータセットが研究の半分で使用される
+    \item Netflixは3件
+    \item Yelpは2件
+\end{itemize}
+
+\section{ポイズニング攻撃への対策}
+
+\subsection{対策の分類}
+\begin{enumerate}
+    \item \textbf{検知手法}
+    \begin{itemize}
+        \item 攻撃で作成されたプロファイルを特定することを目的とする
+    \end{itemize}
+    
+    \item \textbf{防御手法}
+    \begin{itemize}
+        \item 悪意のあるプロファイルを明示的に特定しようとせず、攻撃に対してよりロバストにすることを目指す
+    \end{itemize}
+\end{enumerate}
+
+\subsection{検知手法の特徴量}
+
+\subsubsection{Model-agnosticな特徴量}
+評価行動の絶対的な異常さに基づく：
+\begin{itemize}
+    \item \textbf{RDMA}：特定のユーザーが多数の特定のアイテムに与えた評価が他のユーザーの評価と比べてどれだけ平均的に乖離しているか
+    \item \textbf{WDMA}：RDMAの重み付き分散で、疎なアイテムに対するユーザー評価の累積的な違いを捉える
+    \item \textbf{長さ分散（LengthVar）}：プロファイルの長さの違いを測る指標
+    \item \textbf{トップ近隣ユーザーとの類似度（DegSim）}：あるユーザーがトップk人の近隣ユーザーとどれだけ似ているか
+\end{itemize}
+
+\textbf{特徴：本物のユーザーが異常な行動を示した場合に弱い}
+
+\subsubsection{Model-intrinsicな特徴量}
+攻撃者プロファイル内の評価間の相対的な関係性の歪みに基づく：
+\begin{itemize}
+    \item \textbf{平均分散（MeanVar）}：悪意のあるプロファイルを構成する3つの部分に分けて測定
+    \begin{enumerate}
+        \item ターゲットアイテムへの極端な評価
+        \item プロファイルを埋めるためのフィラーアイテムへの評価
+        \item 未評価のアイテム
+    \end{enumerate}
+    
+    \item \textbf{フィラー平均ターゲット差分モデル（FMTS）}：ターゲットとなる部分の評価とフィラー部分の評価との差の度合いを評価
+    \item \textbf{フィラー平均相関（FAC）}：プロファイル内の評価と全アイテムの平均評価との間の相関を反映
+    \item \textbf{フィラー平均差分（FMD）}：プロファイルの評価と全アイテムの平均評価の絶対差の平均値を測定
+\end{itemize}
+
+\subsection{検知特性のフレームワーク}
+\begin{enumerate}
+    \item ユーザープロファイル：類似性、サイズ、グループ行動、属性
+    \item ターゲット評価：集合性、歪んだ評価
+    \item フィラー評価：評価、長さ
+    \item サイド情報：共起グラフ、ユーザー・ユーザーグラフ
+\end{enumerate}
+
+\subsection{検知手法の概要}
+\begin{itemize}
+    \item 教師あり学習の手法
+    \item 半教師あり学習の手法
+    \item 教師なし学習の手法
+\end{itemize}
+
+\subsection{防御手法}
+効果的な防御策の一つがロバスト最適化：
+\begin{itemize}
+    \item オープン性の課題：外れ値検知、データサニタイゼーション、前処理技術
+    \item コンセプトドリフト：動的学習アルゴリズム
+    \item データの不均衡：アンサンブル手法
+\end{itemize}
+
+\section{対策の効果性}
+
+\subsection{効果的な対策}
+\begin{itemize}
+    \item ユーザーと評価に関する攻撃の研究が多く、それに伴い\textbf{ユーザーと評価に関する攻撃に効果的な対策が多い}
+\end{itemize}
+
+\subsection{弱い対策}
+\begin{itemize}
+    \item 全体として、特定の攻撃に対して弱い対策はごく少数
+\end{itemize}
+
+\section{今後の研究方向性}
+
+\subsection{ポイズニング攻撃のギャップ、限界、そして今後の方向性}
+\begin{enumerate}
+    \item \textbf{攻撃者への知識：ホワイトボックス、グレーボックスからブラックボックス攻撃へ}
+    \begin{itemize}
+        \item 既存のポイズニング攻撃はホワイトボックスおよびグレーボックス攻撃が多い
+        \item 通常はプライバシーとセキュリティの懸念からターゲットとなるレコメンドシステムへのアクセスは通常制限される
+    \end{itemize}
+    
+    \item \textbf{攻撃手法：特定モデル向けからモデルに依存しない攻撃へ}
+    \begin{itemize}
+        \item 現在は、特定モデルに限定された攻撃が主流だが、これは現実世界にあまり適用できない
+    \end{itemize}
+    
+    \item \textbf{サイド情報の統合}
+    \begin{itemize}
+        \item 最近ではドメインハイパーグラフ、ソーシャルプロパティ、空間情報など推薦の質を向上させるためにサイド情報を活用するレコメンドシステムが増えている
+        \item サイド情報は役立つ一方、複雑さと潜在的なセキュリティリスクをもたらす
+    \end{itemize}
+\end{enumerate}
+
+\subsection{攻撃対策のギャップ、限界、そして今後の方向性}
+\begin{enumerate}
+    \item \textbf{攻撃前の検出}
+    \begin{itemize}
+        \item 攻撃前の振る舞いを検出するアプローチがほとんどない
+        \item 防御、検出に加えて予測という新しいカテゴリー
+    \end{itemize}
+    
+    \item \textbf{主要な特性を超える}
+    \begin{itemize}
+        \item ユーザーの属性のような補足情報を取り入れて検知
+    \end{itemize}
+    
+    \item \textbf{精度以外も超える}
+    \begin{itemize}
+        \item 公平性と説明可能性を担保することが同様の攻撃に対する予防策を開発する上で重要
+    \end{itemize}
+    
+    \item \textbf{オーバーヘッドの最適化}
+    \begin{itemize}
+        \item 検知・防御手法の追加にかかるレコメンドシステムのパフォーマンスへの影響を最小化
+    \end{itemize}
+\end{enumerate}
+
+\section{ポイズニング攻撃と対策の関連付け}
+
+\begin{itemize}
+    \item 新しいタイプのポイズニング攻撃に関する研究の量は多いが、対策の開発に関する研究は近年あまり進んでいない
+    \item 悪用される可能性のある様々な脆弱性を抱えており、さらに攻撃を阻止するための効果的な対策が存在しない可能性がある
+\end{itemize}
+
+\section{レコメンドシステムの一般的な脆弱性の統合}
+
+一般的な脆弱性がレコメンドシステムに与える影響は整っていない：
+
+\subsection{ソフトウェアの脆弱性}
+\begin{itemize}
+    \item プログラムのバグと設計ミス
+    \item ゼロデイ攻撃
+    \item SQLインジェクション
+    \item マルウェア感染
+\end{itemize}
+
+\subsection{運用上の脆弱性}
+\begin{itemize}
+    \item 不適切な認証・権限管理
+    \item 設定不備
+    \item パッチ適用遅延
+    \item ヒューマンエラー
+\end{itemize}
+
+\subsection{物理的な脆弱性}
+\begin{itemize}
+    \item 不法侵入
+    \item 自然災害
+\end{itemize}
+
+\section{サーベイ論文の貢献}
+
+\begin{enumerate}
+    \item 攻撃者の課題について議論し、レコメンドシステムの攻撃に焦点を当てている
+    \item 古典的なヒューリスティック攻撃とAIベースの攻撃の両方を網羅した初の包括的なレビューを行い、攻撃を5つの次元で分類
+    \item ポイズニング攻撃に対する41の対策について広範なレビューを提示
+    \item この分野における未解決の問題について記述し、将来の研究の方向性を示している
+    \item 新規参入の研究者に向けてプログラムコード、データセットを含む公開リポジトリを構築
+\end{enumerate}
+
+\section{結論}
+
+本サーベイ論文は、レコメンドシステムに対するポイズニング攻撃の現状と対策について包括的に分析している。特に以下の点が重要である：
+
+\begin{itemize}
+    \item 古典的なヒューリスティック攻撃からAIベースの攻撃への明確な移行が確認されている
+    \item 攻撃手法は多様化しており、モデル内在攻撃とモデル非依存攻撃の両方が存在する
+    \item 検知・防御手法は発展しているが、新しい攻撃手法に対する対策の開発は追いついていない
+    \item 今後の研究では、ブラックボックス攻撃やモデル非依存攻撃への対応、サイド情報の統合、攻撃前検出の実現が重要である
+\end{itemize}
+
+レコメンドシステムのセキュリティを向上させるためには、継続的な研究と実装が必要であり、本サーベイ論文が示す方向性に沿った取り組みが求められる。
+
+\end{document}

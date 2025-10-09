@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "3a6a9f4d2bd4700a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d15ce65484a3de5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54371f0b2c0346bc",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: workspace-mobile.json"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f40399244606f62",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "76f77782563c560f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "ファイルエクスプローラ"
+        }
+      },
+      {
+        "id": "e484e001f5d6ea5c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "検索"
+        }
+      },
+      {
+        "id": "01d675d19d569bbf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "タグ"
+        }
+      },
+      {
+        "id": "f2aa58fd3e201126",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "ブックマーク"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cbba38b9b848fd59",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "63ff558bfc5426ea",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "バックリンク"
+        }
+      },
+      {
+        "id": "676fc88f4caebae7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "アウトゴーイングリンク"
+        }
+      },
+      {
+        "id": "79f1aab779310dbd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "アウトライン"
+        }
+      },
+      {
+        "id": "263c27e6f6d05f2d",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      },
+      {
+        "id": "492ed2bf452ed07d",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "263c27e6f6d05f2d",
+  "lastOpenFiles": [
+    "Daily/2025-05-09.md",
+    "/Zettelkasten/LiteratureNote/スマホのObsidianをGitで同期(2024.11).md",
+    "Zettelkasten/LiteratureNote/スマホのObsidianをGitで同期(2024.11).md",
+    "/Zettelkasten/LiteratureNote",
+    "/Zettelkasten",
+    "/Daily/2025-05-09.md",
+    "Daily",
+    "/Daily",
+    "Zettelkasten/LiteratureNote/「Obsidian Git」を導入してみた。｜devlive.md",
+    "テスト.md",
+    "Zettelkasten/Zettelkastenアプローチ.md",
+    "Zettelkasten/Zettelkastenの運用.md",
+    "Zettelkasten/PermanentNote/Obsidian×Cursorセットアップ.md",
+    "Zettelkasten/LiteratureNote/単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer.md",
+    "Zettelkasten/LiteratureNote/メモ管理は Obsidian in  Cursor が最強｜松濤Vimmer.md",
+    "Zettelkasten/LiteratureNote/「Obsidian」と「Cursor」を使って、noteの記事をどんどこ書く｜akane.md",
+    "Zettelkasten/LiteratureNote/ObsidianをGitHubを使ってWindowsMacOSLinuxiOSAndroidで同期する方法｜如月翔也.md",
+    "Zettelkasten/LiteratureNote/Obsidianに記事メモをためる Web Clipper（ブラウザのタブを全部閉じたい）.md",
+    "Zettelkasten/LiteratureNote/Cursorに自分のnoteとObsidianを読み込ませて記事を書いてもらう｜dora_e_m.md",
+    "Template.md",
+    "Memo.md",
+    "Daily.md",
+    "Zettelkasten/PermanentNote",
+    "Zettelkasten/LiteratureNote",
+    "Zettelkasten",
+    "無題のファイル.canvas"
+  ]
+}

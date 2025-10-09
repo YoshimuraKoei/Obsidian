@@ -1,0 +1,84 @@
+.theme-dark,
+.theme-light {
+  --sdf-header-color-border-left-h1: gray;
+  --sdf-header-color-border-bottom-h2: gray;
+}
+.theme-dark {
+  --sdf-header-color-background-h1-for-label: #000000;
+
+  --sdf-header-color-text-h1: #f2f2f2;
+  --sdf-header-color-text-h2: hsl(30, 100%, 50%);
+  --sdf-header-color-text-h3: hsl(30, 80%, 50%);
+  --sdf-header-color-text-h4: hsl(30, 40%, 50%);
+  /* h5, h6 は基本的に利用しない */
+  --sdf-header-color-text-h5: hsl(200, 40%, 50%);
+  --sdf-header-color-text-h6: hsl(200, 10%, 50%);
+}
+.theme-light {
+  --sdf-header-color-background-h1-for-label: #f2f2f2;
+
+  --sdf-header-color-text-h1: #000000;
+  --sdf-header-color-text-h2: hsl(30, 100%, 50%);
+  --sdf-header-color-text-h3: hsl(30, 80%, 50%);
+  --sdf-header-color-text-h4: hsl(30, 40%, 50%);
+  /* h5, h6 は基本的に利用しない */
+  --sdf-header-color-text-h5: hsl(200, 40%, 50%);
+  --sdf-header-color-text-h6: hsl(200, 10%, 50%);
+}
+
+/* =======================
+編集画面とプレビューの目次の色
+======================= */
+.cm-header.cm-header-1,
+.markdown-preview-view h1 {
+  color: var(--sdf-header-color-text-h1);
+}
+.cm-header.cm-header-2,
+.markdown-preview-view h2 {
+  color: var(--sdf-header-color-text-h2);
+}
+.cm-header.cm-header-3,
+.markdown-preview-view h3 {
+  color: var(--sdf-header-color-text-h3);
+}
+.cm-header.cm-header-4,
+.markdown-preview-view h4 {
+  color: var(--sdf-header-color-text-h4);
+}
+.cm-header.cm-header-5,
+.markdown-preview-view h5 {
+  color: var(--sdf-header-color-text-h5);
+}
+.cm-header.cm-header-6,
+.markdown-preview-view h6 {
+  color: var(--sdf-header-color-text-h6);
+}
+
+/* =======================
+見出しh1の装飾 (ラベル装飾)
+======================= */
+.HyperMD-header-1,
+.markdown-preview-view h1 {
+  /* -----------------------
+  labeling
+  ----------------------- */
+  background: var(--sdf-header-color-background-h1-for-label);
+  border-radius: 3px;
+  border: solid 1px white;
+
+  /* -----------------------
+  spacing (この項目は important が必要)
+  ----------------------- */
+  padding-top: 2px !important;
+  padding-bottom: 2px !important;
+  padding-left: 5px !important;
+}
+
+/* =======================
+見出しh2の装飾 (下線装飾)
+======================= */
+.HyperMD-header-2,
+.markdown-preview-view h2 {
+  background-color: red;
+  border-bottom: solid 2px var(--sdf-header-color-border-bottom-h2);
+}
