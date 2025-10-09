@@ -117,16 +117,40 @@
             "id": "b8d93bb4e152aada",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Pasted image 20250520200137.png"
+                "file": "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/日本語訳 + 補足.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250520200137"
+              "icon": "lucide-file",
+              "title": "日本語訳 + 補足"
             }
           }
         ],
         "currentTab": 7
+      },
+      {
+        "id": "2e961d72bc90d75d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a714c29e384eb52",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/KuaiFormer：Transformer-Based Retrieval at Kuaishou.pdf",
+                "page": 1,
+                "left": -18,
+                "top": 795,
+                "zoom": 0.8762254901960784
+              },
+              "icon": "lucide-file-text",
+              "title": "KuaiFormer：Transformer-Based Retrieval at Kuaishou"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -313,10 +337,11 @@
       "line-notes-sync:Sync LINE messages": false
     }
   },
-  "active": "517a7773a80da21b",
+  "active": "b8d93bb4e152aada",
   "lastOpenFiles": [
+    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/KuaiFormer：Transformer-Based Retrieval at Kuaishou.pdf",
+    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/日本語訳 + 補足.md",
     "無題のファイル.base",
-    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/2411.10057v1.pdf",
     "assets/Pasted image 20250520200137.png",
     "Zettelkasten/PermanentNote/Programming/Kiro ウェビナー.md",
     "4913",
@@ -331,7 +356,6 @@
     "PDF/ScienceDirect_articles_11May2025_09-14-01.285/Developing-a-personalized-recommendation-system-in-a-smart-p_2021_Computers-.pdf",
     "assets",
     "PDF/ScienceDirect_articles_11May2025_09-14-01.285/A-hybrid-recommendation-system-with-many-objectiv_2020_Expert-Systems-with-A.pdf",
-    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/KuaiFormer：Transformer-Based Retrieval at Kuaishou.md",
     "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/日本語訳+補足.md",
     "Zettelkasten/PermanentNote/Programming/API/ISBNによる書籍検索を最速で行うAPI、openBDの紹介.md",
     "Zettelkasten/PermanentNote/研究/論文/Kuaishou/未確認 452030.crdownload",
@@ -344,7 +368,6 @@
     "Zettelkasten/PermanentNote/読書",
     "Zettelkasten/PermanentNote/研究/論文/Attention Is All You Need/日本語訳 + 補足.md",
     "Zettelkasten/PermanentNote/研究/論文/Adversarial Graph Perturbations for Recommendations at Scale/Abstract, Introduction, Related Work.md",
-    "Zettelkasten/PermanentNote/研究/論文/Adversarial Graph Perturbations for Recommendations at Scale/Adversarial Graph Perturbations for Recommendations at Scale.pdf",
     "Zettelkasten/PermanentNote/研究/論文/indexNote.md",
     "Zettelkasten/PermanentNote/研究/論文/README_ALL.md",
     "PDF/3分でわかるヨシムラ.png",
