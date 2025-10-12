@@ -133,12 +133,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第14回.md",
+                "file": "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/日本語訳 + 補足.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "輪読第14回"
+              "title": "日本語訳 + 補足"
             }
           }
         ],
@@ -221,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.50418853759766
+    "width": 292.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "3fedf576311fe310",
@@ -352,13 +353,13 @@
       "line-notes-sync:Sync LINE messages": false
     }
   },
-  "active": "c72646e7e024c7ad",
+  "active": "b8284f23da7f2fec",
   "lastOpenFiles": [
-    "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第13回.md",
+    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/KuaiFormer：Transformer-Based Retrieval at Kuaishou.pdf",
     "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第14回.md",
+    "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第13回.md",
     "LINE/2025-05-16-561255181539607060.md",
     "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/日本語訳 + 補足.md",
-    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/KuaiFormer：Transformer-Based Retrieval at Kuaishou.pdf",
     "無題のファイル.base",
     "assets/Pasted image 20250520200137.png",
     "Zettelkasten/PermanentNote/Programming/Kiro ウェビナー.md",
@@ -399,7 +400,6 @@
     "Zettelkasten/PermanentNote/研究/数学/テイラー展開.md",
     "Zettelkasten/PermanentNote/研究/論文/From Features to Transformers：Redefining Ranking for Scalable Impact/日本語訳+補足.md",
     "Zettelkasten/PermanentNote/研究/リクルートMTG/第2回_1008.md",
-    "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/提案書.md",
     "無題のファイル.canvas"
   ]
 }
