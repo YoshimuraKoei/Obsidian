@@ -6,6 +6,7 @@
       {
         "id": "9f8eb08386a0f664",
         "type": "tabs",
+        "dimension": 48.16017316017316,
         "children": [
           {
             "id": "26d8a9b45924fc94",
@@ -147,6 +148,7 @@
       {
         "id": "2e961d72bc90d75d",
         "type": "tabs",
+        "dimension": 51.83982683982684,
         "children": [
           {
             "id": "7a714c29e384eb52",
@@ -156,8 +158,8 @@
               "state": {
                 "file": "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/KuaiFormer：Transformer-Based Retrieval at Kuaishou.pdf",
                 "page": 1,
-                "left": 205,
-                "top": 261,
+                "left": 61,
+                "top": 274,
                 "zoom": 1.4
               },
               "icon": "lucide-file-text",
@@ -221,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.50418853759766
+    "width": 292.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "3fedf576311fe310",
@@ -352,12 +355,12 @@
       "line-notes-sync:Sync LINE messages": false
     }
   },
-  "active": "7a714c29e384eb52",
+  "active": "b8284f23da7f2fec",
   "lastOpenFiles": [
+    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/KuaiFormer：Transformer-Based Retrieval at Kuaishou.pdf",
     "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/日本語訳 + 補足.md",
     "LINE/2025-10-10-582582885308694705.md",
     "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/日本語訳+補足.md",
-    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/KuaiFormer：Transformer-Based Retrieval at Kuaishou.pdf",
     "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第13回.md",
     "Zettelkasten/PermanentNote/研究/論文/From Features to Transformers：Redefining Ranking for Scalable Impact/From Features to Transformers：Redefining Ranking for Scalable Impact.pdf",
     "PDF/【Zalando】.pdf",
@@ -399,7 +402,6 @@
     "Zettelkasten/PermanentNote/研究/手法/データポイズニング攻撃.md",
     "Zettelkasten/PermanentNote/研究/手法/協調フィルタリング.md",
     "Zettelkasten/PermanentNote/研究/数学/テイラー展開.md",
-    "Zettelkasten/PermanentNote/研究/論文/From Features to Transformers：Redefining Ranking for Scalable Impact/日本語訳+補足.md",
     "無題のファイル.canvas"
   ]
 }
