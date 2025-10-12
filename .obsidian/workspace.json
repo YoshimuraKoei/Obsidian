@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       },
       {
         "id": "2e961d72bc90d75d",
@@ -172,7 +172,7 @@
                 "page": 1,
                 "left": -15,
                 "top": 796,
-                "zoom": 1.0698529411764708
+                "zoom": 1.0698529411764706
               },
               "icon": "lucide-file-text",
               "title": "KuaiFormer：Transformer-Based Retrieval at Kuaishou"
@@ -344,7 +344,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 654.5
+    "width": 654.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -366,12 +367,12 @@
       "line-notes-sync:Sync LINE messages": false
     }
   },
-  "active": "7a714c29e384eb52",
+  "active": "b8284f23da7f2fec",
   "lastOpenFiles": [
     "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/日本語訳+補足.md",
     "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/日本語訳 + 補足.md",
-    "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第13回.md",
     "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/KuaiFormer：Transformer-Based Retrieval at Kuaishou.pdf",
+    "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第13回.md",
     "Zettelkasten/PermanentNote/研究/論文/From Features to Transformers：Redefining Ranking for Scalable Impact/From Features to Transformers：Redefining Ranking for Scalable Impact.pdf",
     "PDF/【Zalando】.pdf",
     "PDF/【Pinterest】.pdf",
