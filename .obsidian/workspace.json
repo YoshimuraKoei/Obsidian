@@ -179,9 +179,25 @@
               "icon": "lucide-file",
               "title": "日本語訳+補足"
             }
+          },
+          {
+            "id": "cb5e3f2456a6a16e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/DV365 Extremely Long User History Modeling at Instagram.pdf",
+                "page": 1,
+                "left": -19,
+                "top": 795,
+                "zoom": 0.9252450980392157
+              },
+              "icon": "lucide-file-text",
+              "title": "DV365 Extremely Long User History Modeling at Instagram"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -369,12 +385,13 @@
       "line-notes-sync:Sync LINE messages": false
     }
   },
-  "active": "18a4e652c0036da2",
+  "active": "cb5e3f2456a6a16e",
   "lastOpenFiles": [
-    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/日本語訳 + 補足.md",
-    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/KuaiFormer：Transformer-Based Retrieval at Kuaishou.pdf",
-    "LINE/2025-10-10-582582885308694705.md",
     "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/日本語訳+補足.md",
+    "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/DV365 Extremely Long User History Modeling at Instagram.pdf",
+    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/KuaiFormer：Transformer-Based Retrieval at Kuaishou.pdf",
+    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/日本語訳 + 補足.md",
+    "LINE/2025-10-10-582582885308694705.md",
     "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第13回.md",
     "Zettelkasten/PermanentNote/研究/論文/From Features to Transformers：Redefining Ranking for Scalable Impact/From Features to Transformers：Redefining Ranking for Scalable Impact.pdf",
     "PDF/【Zalando】.pdf",
@@ -398,7 +415,6 @@
     "assets",
     "PDF/ScienceDirect_articles_11May2025_09-14-01.285/A-hybrid-recommendation-system-with-many-objectiv_2020_Expert-Systems-with-A.pdf",
     "Zettelkasten/PermanentNote/Programming/API/ISBNによる書籍検索を最速で行うAPI、openBDの紹介.md",
-    "Zettelkasten/PermanentNote/研究/論文/Kuaishou/未確認 452030.crdownload",
     "Zettelkasten/PermanentNote/読書/解像度を上げる.md",
     "Zettelkasten/Zettelkastenアプローチ.md",
     "Zettelkasten/PermanentNote/Programming/Docker/Docker入門.md",
