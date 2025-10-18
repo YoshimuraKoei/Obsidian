@@ -6,7 +6,7 @@
       {
         "id": "9f8eb08386a0f664",
         "type": "tabs",
-        "dimension": 48.16017316017316,
+        "dimension": 48.160173160173166,
         "children": [
           {
             "id": "26d8a9b45924fc94",
@@ -148,7 +148,7 @@
       {
         "id": "2e961d72bc90d75d",
         "type": "tabs",
-        "dimension": 51.83982683982684,
+        "dimension": 51.839826839826834,
         "children": [
           {
             "id": "7a714c29e384eb52",
@@ -188,9 +188,7 @@
               "state": {
                 "file": "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/DV365 Extremely Long User History Modeling at Instagram.pdf",
                 "page": 1,
-                "left": -19,
-                "top": 795,
-                "zoom": 0.9252450980392157
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "DV365 Extremely Long User History Modeling at Instagram"
