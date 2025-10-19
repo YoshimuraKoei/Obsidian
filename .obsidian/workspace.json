@@ -118,14 +118,16 @@
             "id": "b8d93bb4e152aada",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第13回.md",
-                "mode": "source",
-                "source": false
+                "file": "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/Disentangling Long and Short-Term Interests for Recommendation.pdf",
+                "page": 4,
+                "left": -18,
+                "top": 280,
+                "zoom": 0.8553921568627451
               },
-              "icon": "lucide-file",
-              "title": "輪読第13回"
+              "icon": "lucide-file-text",
+              "title": "Disentangling Long and Short-Term Interests for Recommendation"
             }
           },
           {
@@ -143,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "2e961d72bc90d75d",
@@ -385,14 +387,15 @@
       "line-notes-sync:Sync LINE messages": false
     }
   },
-  "active": "9a2cfe6ecf9605bb",
+  "active": "b8d93bb4e152aada",
   "lastOpenFiles": [
-    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/日本語訳 + 補足.md",
+    "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第13回.md",
+    "Zettelkasten/Zettelkastenアプローチ.md",
     "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/日本語訳+補足.md",
+    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/日本語訳 + 補足.md",
     "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/KuaiFormer：Transformer-Based Retrieval at Kuaishou.pdf",
     "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/DV365 Extremely Long User History Modeling at Instagram.pdf",
     "LINE/2025-10-10-582582885308694705.md",
-    "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第13回.md",
     "Zettelkasten/PermanentNote/研究/論文/From Features to Transformers：Redefining Ranking for Scalable Impact/From Features to Transformers：Redefining Ranking for Scalable Impact.pdf",
     "PDF/【Zalando】.pdf",
     "PDF/【Pinterest】.pdf",
@@ -416,7 +419,6 @@
     "PDF/ScienceDirect_articles_11May2025_09-14-01.285/A-hybrid-recommendation-system-with-many-objectiv_2020_Expert-Systems-with-A.pdf",
     "Zettelkasten/PermanentNote/Programming/API/ISBNによる書籍検索を最速で行うAPI、openBDの紹介.md",
     "Zettelkasten/PermanentNote/読書/解像度を上げる.md",
-    "Zettelkasten/Zettelkastenアプローチ.md",
     "Zettelkasten/PermanentNote/Programming/Docker/Docker入門.md",
     "Zettelkasten/PermanentNote/Programming/Docker/無題のファイル.md",
     "Zettelkasten/PermanentNote/研究/論文/Attention Is All You Need/日本語訳 + 補足.md",
