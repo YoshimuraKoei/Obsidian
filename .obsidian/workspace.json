@@ -118,14 +118,14 @@
             "id": "b8d93bb4e152aada",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/Disentangling Long and Short-Term Interests for Recommendation.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "Management/10月目標.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Disentangling Long and Short-Term Interests for Recommendation"
+              "icon": "lucide-file",
+              "title": "10月目標"
             }
           },
           {
@@ -387,6 +387,8 @@
   },
   "active": "b8d93bb4e152aada",
   "lastOpenFiles": [
+    "LINE/2025-05-11-560516092997403022.md",
+    "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/Disentangling Long and Short-Term Interests for Recommendation.pdf",
     "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第13回.md",
     "Zettelkasten/Zettelkastenアプローチ.md",
     "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/日本語訳+補足.md",
@@ -414,7 +416,6 @@
     "assets/ChatGPT Image 2025年8月23日 23_07_28.png",
     "PDF/ScienceDirect_articles_11May2025_09-14-01.285/Developing-a-personalized-recommendation-system-in-a-smart-p_2021_Computers-.pdf",
     "assets",
-    "PDF/ScienceDirect_articles_11May2025_09-14-01.285/A-hybrid-recommendation-system-with-many-objectiv_2020_Expert-Systems-with-A.pdf",
     "Zettelkasten/PermanentNote/Programming/API/ISBNによる書籍検索を最速で行うAPI、openBDの紹介.md",
     "Zettelkasten/PermanentNote/読書/解像度を上げる.md",
     "Zettelkasten/PermanentNote/Programming/Docker/Docker入門.md",
