@@ -89,6 +89,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d8e844d909731458",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
             "id": "3b92df2ca6d69f60",
             "type": "leaf",
             "state": {
@@ -209,7 +219,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3b92df2ca6d69f60",
+  "active": "d8e844d909731458",
   "lastOpenFiles": [
     "_update_test/00_Home/Home.md",
     "Zettelkasten/PermanentNote/研究/中間発表/ストーリー再構築.md",
