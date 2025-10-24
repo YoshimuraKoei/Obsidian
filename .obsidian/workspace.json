@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "_update_test/00_Home/無題のカンバン.md",
+                "file": "_update_test/00_Home/カンバン.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -23,10 +23,25 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "無題のカンバン"
+              "title": "カンバン"
+            }
+          },
+          {
+            "id": "5e7c4be80f67c2d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_update_test/00_Home/宗輔君向け_人生変えプレゼン.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "宗輔君向け_人生変えプレゼン"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_update_test/00_Home/- [] 完了タスク.md",
+                "file": "_update_test/00_Home/宗輔君向け_人生変えプレゼン.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "- [] 完了タスクのアウトライン"
+              "title": "宗輔君向け_人生変えプレゼンのアウトライン"
             }
           },
           {
@@ -162,6 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_update_test/00_Home/宗輔君向け_人生変えプレゼン.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "宗輔君向け_人生変えプレゼンへのバックリンク"
             }
           },
           {
@@ -180,11 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_update_test/00_Home/宗輔君向け_人生変えプレゼン.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "宗輔君向け_人生変えプレゼンからのアウトゴーイングリンク"
             }
           },
           {
@@ -253,10 +270,13 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "c72646e7e024c7ad",
+  "active": "5e7c4be80f67c2d7",
   "lastOpenFiles": [
-    "_update_test/00_Home/無題のカンバン.md",
+    "_update_test/00_Home/カンバン.md",
+    "_update_test/00_Home/宗輔君向け_人生変えプレゼン.md",
     "_update_test/00_Home/- [] 完了タスク.md",
+    "無題のフォルダ 1",
+    "無題のフォルダ",
     "_update_test/00_Home/Home.md",
     "copilot/copilot-conversations/このプラグインどうやってつかうの@20251024_135859.md",
     "copilot/copilot-conversations",
@@ -277,8 +297,6 @@
     "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/KuaiFormer：Transformer-Based Retrieval at Kuaishou.pdf",
     "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/DV365 Extremely Long User History Modeling at Instagram.pdf",
     "LINE/2025-10-10-582582885308694705.md",
-    "Zettelkasten/PermanentNote/研究/論文/From Features to Transformers：Redefining Ranking for Scalable Impact/From Features to Transformers：Redefining Ranking for Scalable Impact.pdf",
-    "PDF/【Zalando】.pdf",
     "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/日本語訳+補足.md",
     "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第14回.md",
     "LINE/2025-05-16-561255181539607060.md",
@@ -298,7 +316,6 @@
     "Zettelkasten/PermanentNote/Programming/Docker/無題のファイル.md",
     "Zettelkasten/PermanentNote/研究/論文/Attention Is All You Need/日本語訳 + 補足.md",
     "Zettelkasten/PermanentNote/研究/論文/Adversarial Graph Perturbations for Recommendations at Scale/Abstract, Introduction, Related Work.md",
-    "Zettelkasten/PermanentNote/研究/論文/indexNote.md",
     "PDF/3分でわかるヨシムラ.png",
     "assets/Pasted image 20251006212133.png",
     "無題のファイル.canvas"
