@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "index"
+    "index",
+    "custom-width"
   ],
   "theme": "moonstone",
   "cssTheme": "Obsidian Nord"
