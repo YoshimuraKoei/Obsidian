@@ -1,7 +1,8 @@
 {
   "enabledCssSnippets": [
     "index",
-    "custom-width"
+    "custom-width",
+    "heading2-highlight"
   ],
   "theme": "moonstone",
   "cssTheme": "Obsidian Nord"
