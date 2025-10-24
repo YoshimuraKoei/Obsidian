@@ -1,10 +1,9 @@
 {
   "enabledCssSnippets": [
     "index",
-    "custom-width",
-    "heading2-highlight"
+    "custom-width"
   ],
   "theme": "moonstone",
-  "cssTheme": "",
+  "cssTheme": "Obsidian Nord",
   "accentColor": "#97dff7"
 }
