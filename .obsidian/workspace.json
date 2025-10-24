@@ -78,12 +78,33 @@
               "icon": "lucide-bookmark",
               "title": "ブックマーク"
             }
+          },
+          {
+            "id": "f1889a6b0c6ddbf3",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly93d3cubm90aW9uLnNvL0hQLTE3YzUwNmJkM2U1NzgwOTQ5NDQ1ZWU5ZTJiMzYzMGVlP3NvdXJjZT1jb3B5X2xpbms=",
+              "state": {},
+              "icon": "aHR0cHM6Ly93d3cubm90aW9uLnNvL0hQLTE3YzUwNmJkM2U1NzgwOTQ5NDQ1ZWU5ZTJiMzYzMGVlP3NvdXJjZT1jb3B5X2xpbms=",
+              "title": "HP_Notion"
+            }
+          },
+          {
+            "id": "11919475251b2260",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly9jYWxlbmRhci5nb29nbGUuY29tL2NhbGVuZGFyL3UvMC9yL2RheQ==",
+              "state": {},
+              "icon": "aHR0cHM6Ly9jYWxlbmRhci5nb29nbGUuY29tL2NhbGVuZGFyL3UvMC9yL2RheQ==",
+              "title": "Google Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 292.50418853759766
+    "width": 728.5041885375977
   },
   "right": {
     "id": "3fedf576311fe310",
@@ -222,10 +243,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "line-notes-sync:Sync LINE messages": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-kanban:カンバンボードを新規作成": false
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "open-gate:HP_Notion": false,
+      "open-gate:Google Calendar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "11919475251b2260",
   "lastOpenFiles": [
     "_update_test/00_Home/- [] 完了タスク.md",
     "_update_test/00_Home/無題のカンバン.md",
