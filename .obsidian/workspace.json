@@ -30,14 +30,17 @@
             "id": "5e7c4be80f67c2d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "_update_test/00_Home/宗輔君向け_人生変えプレゼン.md",
-                "mode": "source",
-                "source": false
+                "file": "_update_test/00_Home/HOME.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "宗輔君向け_人生変えプレゼン"
+              "icon": "lucide-layout-dashboard",
+              "title": "HOME"
             }
           }
         ],
@@ -162,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_update_test/00_Home/宗輔君向け_人生変えプレゼン.md",
+                "file": "_update_test/00_Home/HOME.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "宗輔君向け_人生変えプレゼンのアウトライン"
+              "title": "HOMEのアウトライン"
             }
           },
           {
@@ -177,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_update_test/00_Home/宗輔君向け_人生変えプレゼン.md",
+                "file": "_update_test/00_Home/HOME.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "宗輔君向け_人生変えプレゼンへのバックリンク"
+              "title": "HOMEへのバックリンク"
             }
           },
           {
@@ -196,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_update_test/00_Home/宗輔君向け_人生変えプレゼン.md",
+                "file": "_update_test/00_Home/HOME.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "宗輔君向け_人生変えプレゼンからのアウトゴーイングリンク"
+              "title": "HOMEからのアウトゴーイングリンク"
             }
           },
           {
@@ -243,7 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 654.5
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,10 +273,11 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "5e7c4be80f67c2d7",
+  "active": "c72646e7e024c7ad",
   "lastOpenFiles": [
-    "_update_test/00_Home/カンバン.md",
     "_update_test/00_Home/宗輔君向け_人生変えプレゼン.md",
+    "_update_test/00_Home/HOME.canvas",
+    "_update_test/00_Home/カンバン.md",
     "_update_test/00_Home/- [] 完了タスク.md",
     "無題のフォルダ 1",
     "無題のフォルダ",
@@ -315,9 +319,7 @@
     "Zettelkasten/PermanentNote/Programming/Docker/Docker入門.md",
     "Zettelkasten/PermanentNote/Programming/Docker/無題のファイル.md",
     "Zettelkasten/PermanentNote/研究/論文/Attention Is All You Need/日本語訳 + 補足.md",
-    "Zettelkasten/PermanentNote/研究/論文/Adversarial Graph Perturbations for Recommendations at Scale/Abstract, Introduction, Related Work.md",
     "PDF/3分でわかるヨシムラ.png",
-    "assets/Pasted image 20251006212133.png",
-    "無題のファイル.canvas"
+    "assets/Pasted image 20251006212133.png"
   ]
 }
