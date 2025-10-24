@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 プロジェクト管理
+## カテキョ
 🔹 [[01_Projects/Project Dashboard|プロジェクト一覧]]
 🔹 [[01_Projects/Active Projects|進行中プロジェクト]]
 🔹 [[01_Projects/Ideas for New Projects|新規企画アイデア]]
