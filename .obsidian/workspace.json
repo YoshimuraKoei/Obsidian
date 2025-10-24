@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/2411.10057v1.pdf",
+                "file": "_update_test/00_Home/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2411.10057v1からのアウトゴーイングリンク"
+              "title": "Homeからのアウトゴーイングリンク"
             }
           },
           {
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,7 +209,7 @@
       "line-notes-sync:Sync LINE messages": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ed3c185cf42fec20",
   "lastOpenFiles": [
     "_update_test/00_Home/Home.md",
     "Zettelkasten/PermanentNote/研究/中間発表/ストーリー再構築.md",
