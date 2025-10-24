@@ -38,6 +38,7 @@
       {
         "id": "472c9b7ca5a6f215",
         "type": "tabs",
+        "dimension": 74.02894135567402,
         "children": [
           {
             "id": "c72646e7e024c7ad",
@@ -99,12 +100,28 @@
               "title": "Google Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "82a852ee0c3a1eb5",
+        "type": "tabs",
+        "dimension": 25.97105864432597,
+        "children": [
+          {
+            "id": "f55a9e046f63daa4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 728.5041885375977
+    "width": 389.50418853759766
   },
   "right": {
     "id": "3fedf576311fe310",
@@ -130,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_update_test/00_Home/無題のカンバン.md",
+                "file": "_update_test/00_Home/- [] 完了タスク.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のカンバンのアウトライン"
+              "title": "- [] 完了タスクのアウトライン"
             }
           },
           {
@@ -145,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_update_test/00_Home/無題のカンバン.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "無題のカンバンへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -164,12 +180,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_update_test/00_Home/無題のカンバン.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "無題のカンバンからのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
@@ -185,16 +200,6 @@
               },
               "icon": "lucide-tags",
               "title": "タグ"
-            }
-          },
-          {
-            "id": "f55a9e046f63daa4",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
             }
           },
           {
@@ -248,10 +253,10 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "11919475251b2260",
+  "active": "c72646e7e024c7ad",
   "lastOpenFiles": [
-    "_update_test/00_Home/- [] 完了タスク.md",
     "_update_test/00_Home/無題のカンバン.md",
+    "_update_test/00_Home/- [] 完了タスク.md",
     "_update_test/00_Home/Home.md",
     "copilot/copilot-conversations/このプラグインどうやってつかうの@20251024_135859.md",
     "copilot/copilot-conversations",
