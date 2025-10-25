@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_update_test/00_Home/2025-10-24_宗輔君人生変えプレゼン.md",
+                "file": "_update_test/00_Home/00_Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-24_宗輔君人生変えプレゼン"
+              "title": "00_Home"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "472c9b7ca5a6f215",
         "type": "tabs",
-        "dimension": 74.02894135567402,
+        "dimension": 74.0484429065744,
         "children": [
           {
             "id": "c72646e7e024c7ad",
@@ -100,7 +100,7 @@
       {
         "id": "82a852ee0c3a1eb5",
         "type": "tabs",
-        "dimension": 25.97105864432597,
+        "dimension": 25.951557093425603,
         "children": [
           {
             "id": "f55a9e046f63daa4",
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5041847229004,
-    "collapsed": true
+    "width": 268.5041847229004
   },
   "right": {
     "id": "3fedf576311fe310",
@@ -251,23 +250,31 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c72646e7e024c7ad",
   "lastOpenFiles": [
+    "_update_test/05_ナレッジ",
+    "_update_test/04_個別指導",
+    "01_Projects/Project Dashboard.md",
+    "_update_test/00_Home/00_Home.md",
+    "01_Projects",
+    "_update_test/02_キュービック",
+    "_update_test/01_研究",
+    "_update_test/03_就活",
+    "02_Knowledge/Research Index.md",
+    "02_Knowledge",
+    "_update_test/00_Home/カンバン.md",
+    "_update_test/04_個別指導/宗輔君_指導メモ.md",
+    "_update_test/04_個別指導/2025-10-24_宗輔君人生変えプレゼン.md",
     "assets/Pasted image 20251024175005.png",
     "assets/Pasted image 20251024174940.png",
     "assets/Pasted image 20251024174928.png",
     "copilot/copilot-conversations/3._大目標である自分の望む人生を歩むにはどうしたらよいか？_-_結論、②の「自分自身で望む成果を手に入れる力_=_推進力」を身に付@20251024_170415.md",
-    "_update_test/00_Home/宗輔君_指導メモ.md",
-    "_update_test/00_Home/カンバン.md",
-    "_update_test/00_Home/Home.md",
-    "_update_test/00_Home/2025-10-24_宗輔君人生変えプレゼン.md",
     "assets/Pasted image 20251024150008.png",
     "_update_test/00_Home/HOME.canvas",
     "Zettelkasten/PermanentNote/研究/院試/研究計画書：信頼ベースのレコメンダーシステム.md",
     "Zettelkasten/PermanentNote/研究/院試/A日程対策.md",
     "_update_test/00_Home/- [] 完了タスク.md",
     "無題のフォルダ 1",
-    "無題のフォルダ",
     "copilot/copilot-conversations/このプラグインどうやってつかうの@20251024_135859.md",
     "copilot/copilot-conversations",
     "copilot",
@@ -275,17 +282,12 @@
     "Zettelkasten/PermanentNote/研究/中間発表/2025-10-23_中間発表練習.md",
     "Zettelkasten/PermanentNote/研究/推薦システム.md",
     "Zettelkasten/PermanentNote/研究/中間発表",
-    "_update_test/00_Home",
     "Management/10月目標.md",
-    "_update_test",
     "LINE/2025-05-11-560516092997403022.md",
-    "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/Disentangling Long and Short-Term Interests for Recommendation.pdf",
     "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第13回.md",
     "Zettelkasten/Zettelkastenアプローチ.md",
     "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/日本語訳+補足.md",
     "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/日本語訳 + 補足.md",
-    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/KuaiFormer：Transformer-Based Retrieval at Kuaishou.pdf",
-    "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/DV365 Extremely Long User History Modeling at Instagram.pdf",
     "LINE/2025-10-10-582582885308694705.md",
     "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/日本語訳+補足.md",
     "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第14回.md",
@@ -293,12 +295,9 @@
     "assets/Pasted image 20250520200137.png",
     "Zettelkasten/PermanentNote/Programming/Kiro ウェビナー.md",
     "assets/Pasted image 20251009175255.png",
-    "テスト.md",
     "assets/Pasted image 20251009175246.png",
     "assets/Pasted image 20250807202430.png",
     "assets/Pasted image 20250610100221.png",
-    "assets/Pasted image 20250807200816.png",
-    "assets/Pasted image 20250609160703.png",
-    "Zettelkasten/PermanentNote/Programming/API/ISBNによる書籍検索を最速で行うAPI、openBDの紹介.md"
+    "assets/Pasted image 20250807200816.png"
   ]
 }
