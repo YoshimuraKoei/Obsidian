@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_update_test/03_就活/フューチャー.md",
+                "file": "Zettelkasten/PermanentNote/研究/中間発表/2025-10-23_中間発表練習.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "フューチャー"
+              "title": "2025-10-23_中間発表練習"
             }
           }
         ]
@@ -223,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,8 +252,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "_update_test/03_就活/軸.md",
+    "Zettelkasten/PermanentNote/研究/中間発表/ストーリー再構築.md",
+    "Zettelkasten/PermanentNote/研究/中間発表/2025-10-23_中間発表練習.md",
     "_update_test/03_就活/フューチャー.md",
+    "_update_test/03_就活/軸.md",
     "_update_test/Home/Home.md",
     "LaTeX/Adversarial Collaborative Filtering for Free/Adversarial_Collaborative_Filtering_for_Free.pdf",
     "_update_test/00_自己管理",
@@ -280,8 +282,6 @@
     "Zettelkasten/PermanentNote/研究/院試/A日程対策.md",
     "_update_test/00_Home/- [] 完了タスク.md",
     "copilot/copilot-conversations/このプラグインどうやってつかうの@20251024_135859.md",
-    "Zettelkasten/PermanentNote/研究/中間発表/ストーリー再構築.md",
-    "Zettelkasten/PermanentNote/研究/中間発表/2025-10-23_中間発表練習.md",
     "Zettelkasten/PermanentNote/研究/推薦システム.md",
     "Management/10月目標.md",
     "LINE/2025-05-11-560516092997403022.md",
