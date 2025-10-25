@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/PermanentNote/研究/中間発表/2025-10-23_中間発表練習.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-10-23_中間発表練習"
+              "title": "新規タブ"
             }
           }
         ]
@@ -250,10 +246,10 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d8e844d909731458",
   "lastOpenFiles": [
-    "Zettelkasten/PermanentNote/研究/中間発表/ストーリー再構築.md",
     "Zettelkasten/PermanentNote/研究/中間発表/2025-10-23_中間発表練習.md",
+    "Zettelkasten/PermanentNote/研究/中間発表/ストーリー再構築.md",
     "_update_test/03_就活/フューチャー.md",
     "_update_test/03_就活/軸.md",
     "_update_test/Home/Home.md",
