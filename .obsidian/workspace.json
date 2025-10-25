@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_update_test/Home/Home.md",
+                "file": "_update_test/03_就活/フューチャー.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "フューチャー"
             }
           }
         ]
@@ -252,8 +252,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "LaTeX/Adversarial Collaborative Filtering for Free/Adversarial_Collaborative_Filtering_for_Free.pdf",
+    "_update_test/03_就活/軸.md",
+    "_update_test/03_就活/フューチャー.md",
     "_update_test/Home/Home.md",
+    "LaTeX/Adversarial Collaborative Filtering for Free/Adversarial_Collaborative_Filtering_for_Free.pdf",
     "_update_test/00_自己管理",
     "_update_test/06_メモ",
     "_update_test/05_ナレッジ",
@@ -277,7 +279,6 @@
     "Zettelkasten/PermanentNote/研究/院試/研究計画書：信頼ベースのレコメンダーシステム.md",
     "Zettelkasten/PermanentNote/研究/院試/A日程対策.md",
     "_update_test/00_Home/- [] 完了タスク.md",
-    "無題のフォルダ 1",
     "copilot/copilot-conversations/このプラグインどうやってつかうの@20251024_135859.md",
     "Zettelkasten/PermanentNote/研究/中間発表/ストーリー再構築.md",
     "Zettelkasten/PermanentNote/研究/中間発表/2025-10-23_中間発表練習.md",
@@ -293,7 +294,6 @@
     "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第14回.md",
     "LINE/2025-05-16-561255181539607060.md",
     "assets/Pasted image 20250520200137.png",
-    "Zettelkasten/PermanentNote/Programming/Kiro ウェビナー.md",
     "assets/Pasted image 20251009175255.png",
     "assets/Pasted image 20251009175246.png",
     "assets/Pasted image 20250807202430.png",

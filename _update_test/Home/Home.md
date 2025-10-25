@@ -19,8 +19,8 @@
 ---
 
 ## 03_就活
-✨ [[03_Ideas/Idea Inbox|アイデア受け皿]]
-✨ [[03_Ideas/Business Models|ビジネスモデル集]]
+✨ [[_update_test/03_就活/軸]]
+✨ [[_update_test/03_就活/フューチャー]]
 
 ---
 
