@@ -39,7 +39,7 @@
 ---
 
 ## 06_メモ
-🔹
+🔹[Lemon8 PJ](https://docs.google.com/spreadsheets/d/1HtyItLd9JxdM-tZZPochysaj2A4-Ji2cMXRuPxxQhDU/edit?gid=0#gid=0)
 
 ---
 > 📌 *「すべての知的活動はここから始まる」*
