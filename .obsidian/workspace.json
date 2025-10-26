@@ -11,19 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "_update_test/Home/カンバン.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "_update_test/Home/Home.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "カンバン"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -257,16 +252,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_update_test/03_就活/フューチャー.md",
+    "_update_test/Home/Home.md",
+    "_update_test/Home/カンバン.md",
     "copilot/copilot-conversations/3._大目標である自分の望む人生を歩むにはどうしたらよいか？_-_結論、②の「自分自身で望む成果を手に入れる力_=_推進力」を身に付@20251024_170415.md",
     "copilot/copilot-conversations/このプラグインどうやってつかうの@20251024_135859.md",
     "_update_test/06_メモ/LINE/2025-05-11-560516092997403022.md",
     "_update_test/06_メモ/LINE/2025-10-26-584893083507228827.md",
     "_update_test/06_メモ/LINE/2025-10-26-584891549516038199.md",
     "_update_test/06_メモ/LINE",
-    "_update_test/Home/カンバン.md",
     "_update_test/Home/HOME.canvas",
-    "_update_test/Home/Home.md",
-    "_update_test/03_就活/フューチャー.md",
     "Zettelkasten/PermanentNote/研究/中間発表/2025-10-23_中間発表練習.md",
     "Zettelkasten/PermanentNote/研究/中間発表/ストーリー再構築.md",
     "_update_test/03_就活/軸.md",
