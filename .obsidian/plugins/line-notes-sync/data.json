@@ -1,5 +1,5 @@
 {
-  "noteFolderPath": "LINE",
+  "noteFolderPath": "_update_test/06_メモ/LINE",
   "vaultId": "Koei_Obsidian",
   "lineUserId": "Ubef0bd715aef70bf741842fb99a01694",
   "encryptionKeys": {
@@ -9,5 +9,15 @@
     "keyId": "b22b858b-46b8-431e-b02a-b22323b5db46",
     "createdAt": 1759997879958,
     "salt": "v+uYhfJo9om19B22tD2DiA=="
-  }
+  },
+  "autoSync": false,
+  "syncInterval": 2,
+  "syncOnStartup": true,
+  "organizeByDate": false,
+  "fileNameTemplate": "{date}-{messageId}",
+  "e2eeEnabled": true,
+  "groupMessagesByDate": false,
+  "groupedMessageTemplate": "{time}: {text}",
+  "groupedFrontmatterTemplate": "source: LINE\ndate: {date}",
+  "groupedFileNameTemplate": "{date}"
 }
