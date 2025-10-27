@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_研究/コード解読/CLSR.md",
+                "file": "06_メモ/クリッピング/Pythonで使用する if __name__ == '__main__' の意味.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLSR"
+              "title": "Pythonで使用する if __name__ == '__main__' の意味"
             }
           }
         ],
@@ -281,6 +281,8 @@
   },
   "active": "eb8ec090278d1ee7",
   "lastOpenFiles": [
+    "01_研究/コード解読/CLSR.md",
+    "06_メモ/クリッピング/Pythonで使用する if __name__ == '__main__' の意味.md",
     "06_メモ/クリッピング/Gitフローとブランチ命名規則.md",
     "05_ナレッジ/Programming/JSON.parse() and JSON.stringify().md",
     "05_ナレッジ/Programming/Git/(未) Gitフローとブランチ命名規則.md",
@@ -315,7 +317,6 @@
     "03_就活/軸.md",
     "03_就活",
     "02_キュービック",
-    "01_研究/推薦システムナレッジ/レコメンドシステム—— アーキテクチャと処理フローの体系的解説.md",
     "Home/HOME.canvas",
     "_update_test/Home/HOME.canvas",
     "img/Pasted image 20251024175005.png",
