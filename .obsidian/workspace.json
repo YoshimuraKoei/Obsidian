@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "a8a42a8b5b48df6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_update_test/06_メモ/イシューレポート/WSL + Cursorターミナルにおける日本語入力不具合の発生と解決レポート.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WSL + Cursorターミナルにおける日本語入力不具合の発生と解決レポート"
+            }
+          },
+          {
             "id": "6f8bc40a37dbfe20",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -279,11 +293,14 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "052a266ed34e3604",
+  "active": "a8a42a8b5b48df6b",
   "lastOpenFiles": [
+    "_update_test/01_研究/コード解読/CLSR.md",
+    "_update_test/06_メモ/イシューレポート/WSL + Cursorターミナルにおける日本語入力不具合の発生と解決レポート.md",
+    "無題のフォルダ",
+    "_update_test/06_メモ/イシューレポート",
     "Template/Knowledge.md",
     "Template/Paper-Memo.md",
-    "_update_test/01_研究/コード解読/CLSR.md",
     "テスト.md",
     "copilot/copilot-conversations/やっほ@20251027_132133.md",
     "Zettelkasten/Zettelkastenの運用.md",
@@ -313,11 +330,8 @@
     "LaTeX/Adversarial Collaborative Filtering for Free/Adversarial_Collaborative_Filtering_for_Free.pdf",
     "_update_test/00_自己管理",
     "_update_test/06_メモ",
-    "_update_test/05_ナレッジ",
-    "_update_test/04_個別指導",
     "01_Projects/Project Dashboard.md",
     "02_Knowledge/Research Index.md",
-    "_update_test/04_個別指導/宗輔君_指導メモ.md",
     "img/Pasted image 20251024175005.png",
     "img/Pasted image 20251024174940.png",
     "img/Pasted image 20251024174928.png",
