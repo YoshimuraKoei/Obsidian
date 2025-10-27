@@ -1,8 +1,9 @@
 ---
-title: 
-AI: 
-published: ""
-description: 
+title:
+AI:
+published:
+created: ""
+description:
 tags:
   - permanent-note
 ---
