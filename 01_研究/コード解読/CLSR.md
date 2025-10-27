@@ -330,4 +330,8 @@ flags.DEFINE_<type>(name, default, help, **kwargs)
 
 
 > [!NOTE] イテレータ
-> Contents
+> モデルに渡す **「入力データを1サンプルずつ（またはバッチ単位で）供給する仕組み」**
+> 元のデータ（例：user_id, item_id, timestamp）をモデルが扱える形に 変換・整形 する。
+> 学習や評価の際に、データを順番に取り出す 仕組みを提供。
+
+次はイテレータから。
