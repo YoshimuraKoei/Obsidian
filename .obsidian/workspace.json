@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_update_test/01_研究/推薦システム/レコメンドシステム—— アーキテクチャと処理フローの体系的解説.md",
+                "file": "テスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "レコメンドシステム—— アーキテクチャと処理フローの体系的解説"
+              "title": "テスト"
+            }
+          },
+          {
+            "id": "052a266ed34e3604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_update_test/01_研究/コード解読/CLSR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLSR"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "軸"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,17 +279,23 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "052a266ed34e3604",
   "lastOpenFiles": [
-    "Template/PermanentNote.md",
-    "_update_test/01_研究/推薦システム/レコメンドシステム—— アーキテクチャと処理フローの体系的解説.md",
+    "Template/Knowledge.md",
+    "Template/Paper-Memo.md",
+    "_update_test/01_研究/コード解読/CLSR.md",
+    "テスト.md",
+    "copilot/copilot-conversations/やっほ@20251027_132133.md",
+    "Zettelkasten/Zettelkastenの運用.md",
+    "_update_test/01_研究/推薦システムナレッジ/レコメンドシステム—— アーキテクチャと処理フローの体系的解説.md",
+    "_update_test/01_研究/コード解読",
     "_update_test/01_研究/推薦システム/Zenn.md",
-    "_update_test/01_研究/推薦システム/推薦システム.md",
+    "_update_test/01_研究/推薦システムナレッジ/推薦システム.md",
     "_update_test/Home/Home.md",
     "_update_test/Home/カンバン.md",
     "_update_test/01_研究/推薦システム.md",
     "PDF/A model of a trust-based recommendation system on a social network.pdf",
-    "_update_test/01_研究/推薦システム",
+    "_update_test/01_研究/推薦システムナレッジ",
     "_update_test/Home/HOME.canvas",
     "_update_test/01_研究/中間発表/2025-10-23_中間発表練習.md",
     "_update_test/01_研究/推薦システム/01_研究_推薦システム.md",
@@ -295,18 +316,12 @@
     "_update_test/05_ナレッジ",
     "_update_test/04_個別指導",
     "01_Projects/Project Dashboard.md",
-    "01_Projects",
     "02_Knowledge/Research Index.md",
     "_update_test/04_個別指導/宗輔君_指導メモ.md",
-    "_update_test/04_個別指導/2025-10-24_宗輔君人生変えプレゼン.md",
     "img/Pasted image 20251024175005.png",
     "img/Pasted image 20251024174940.png",
     "img/Pasted image 20251024174928.png",
     "img/Pasted image 20251024150008.png",
-    "Zettelkasten/PermanentNote/研究/院試/研究計画書：信頼ベースのレコメンダーシステム.md",
-    "Zettelkasten/PermanentNote/研究/院試/A日程対策.md",
-    "_update_test/00_Home/- [] 完了タスク.md",
-    "Zettelkasten/PermanentNote/研究/推薦システム.md",
     "img/Pasted image 20250520200137.png",
     "img/Pasted image 20251009175255.png",
     "img/Pasted image 20251009175246.png",

@@ -2,8 +2,9 @@
 title:
 AI:
 published:
-created: ""
+created: " {{date:YYYY-MM-DD}}"
 description:
 tags:
   - permanent-note
+  - knowledge
 ---
