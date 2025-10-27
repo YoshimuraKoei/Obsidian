@@ -35,7 +35,9 @@ tags:
 > 	- `sequential.py` ：モデル選択と実行のエントリーポイント
 > 		- データロード、モデル初期化、学習、評価
 > 		- taobao / Kuaishou で実行
-> 	- `CLSR`
+> 	- `CLSR/taobao-clsr-debug/` ：出力
+> 		- `model/` ：チェックポイント
+> 		- `summary/` ：学習ログ
 
 
 ```
