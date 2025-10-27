@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_メモ/クリッピング/【初心者】ネコでも分かる「学習回数」ってなに？【図解】.md",
+                "file": "01_研究/コード解読/CLSR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【初心者】ネコでも分かる「学習回数」ってなに？【図解】"
+              "title": "CLSR"
             }
           },
           {
@@ -295,8 +295,8 @@
   },
   "active": "eb8ec090278d1ee7",
   "lastOpenFiles": [
-    "01_研究/コード解読/CLSR.md",
     "06_メモ/クリッピング/【初心者】ネコでも分かる「学習回数」ってなに？【図解】.md",
+    "01_研究/コード解読/CLSR.md",
     "06_メモ/クリッピング/Pythonでコマンドラインからpickleの中身を確認する.md",
     "06_メモ/クリッピング/【Python初心者】正規表現とraw文字列リテラルの基礎まとめ.md",
     "06_メモ/クリッピング/pythonのos.path.joinについてざっくりまとめる.md",
