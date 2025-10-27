@@ -16,13 +16,26 @@ tags:
 > [!NOTE] 主要ディレクトリ構成とその役割
 > 1. `reco_utils` ：**レコメンダー実装のコアライブラリ**
 > 	- `recommender/deeprec/` ：深層学習ベースのレコメンダー
-> 		- `models/sequential/` ：シーケンシャル(動作履歴)モデル
+> 		- `models/sequential/` ：シーケンシャル (動作履歴) モデル
 > 			- `clsr.py` ：この研究のCLSRモデル
 > 			- `gru4rec.py`, `din.py`, `dien.py`など：参考モデル
 > 		- `config/`：モデル設定ファイル(YAML)
-> 			- `clsr.yaml`
-> 2. 
-> 
+> 			- `clsr.yaml` ：CLSR設定
+> 		- `io/` ：データ読み込み (イテレータなど)
+> 	- `dataset/` ：前処理・データ分析
+> 		- `sequential_reviews.py` ：シーケンシャルデータ前処理
+> 		- `python_splitters.py` ：分割
+> 	- `evaluaton/` ：評価 (AUC、NDCGなど)
+> 	- `common/` ：ユーティリティ
+> 2. `tests/resources/` ：データセット
+> 	- `deeprec/sequential/` ：
+> 		- `taobao/`, `tenrec` など
+> 		- `README.md` ：データ説明
+> 3. `examples/00_quick_start/` ：学習・評価スクリプト実行コード
+> 	- `sequential.py` ：モデル選択と実行のエントリーポイント
+> 		- データロード、モデル初期化、学習、評価
+> 		- taobao / Kuaishou で実行
+> 	- `CLSR`
 
 
 ```
