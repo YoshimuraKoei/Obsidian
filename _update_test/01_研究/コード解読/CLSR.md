@@ -12,6 +12,19 @@ tags:
 
 ## ディレクトリ構成
 
+
+> [!NOTE] 主要ディレクトリ構成とその役割
+> 1. `reco_utils` ：**レコメンダー実装のコアライブラリ**
+> 	- `recommender/deeprec/` ：深層学習ベースのレコメンダー
+> 		- `models/sequential/` ：シーケンシャル(動作履歴)モデル
+> 			- `clsr.py` ：この研究のCLSRモデル
+> 			- `gru4rec.py`, `din.py`, `dien.py`など：参考モデル
+> 		- `config/`：モデル設定ファイル(YAML)
+> 			- `clsr.yaml`
+> 2. 
+> 
+
+
 ```
 .
 ├── analysis
