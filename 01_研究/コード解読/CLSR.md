@@ -288,9 +288,15 @@ tags:
 > [!NOTE] Abseil
 > [[【Google謹製】簡単便利なPython引数解析【Abseil】]]
 > ```
-> from absl import flags
+> from absl import app, flags
+> 
 > FLAGS = flags.FLAGS
 > flags.DEFINE_string('dataset', 'taobao', 'Dataset name.')
+> flags.DEFINE_integer('gpu_id', 1, 'GPU ID.')
+> if __name__ = "__main_"
 > ```
-> - 第1引数 
-> 
+> flags.DEFINE_<type>(name, default, help, **kwargs) 
+1. 第1引数 がフラグ名 (コマンドラインでは --name)
+2. 第2引数 がデフォルト値
+3. 第3引数 が説明文 (--help を出したときに表示) 
+
