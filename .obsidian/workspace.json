@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_update_test/01_研究/中間発表/2025-10-23_中間発表練習.md",
+                "file": "_update_test/01_研究/推薦システム/レコメンドシステム—— アーキテクチャと処理フローの体系的解説.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-23_中間発表練習"
+              "title": "レコメンドシステム—— アーキテクチャと処理フローの体系的解説"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_update_test/Home/Home.md",
+                "file": "_update_test/03_就活/軸.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "軸"
             }
           }
         ]
@@ -266,19 +266,27 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_update_test/01_研究/推薦システム/Zenn.md",
+    "_update_test/01_研究/推薦システム/レコメンドシステム—— アーキテクチャと処理フローの体系的解説.md",
+    "_update_test/01_研究/推薦システム.md",
+    "PDF/A model of a trust-based recommendation system on a social network.pdf",
     "_update_test/Home/Home.md",
+    "_update_test/01_研究/推薦システム",
+    "_update_test/Home/HOME.canvas",
     "_update_test/01_研究/中間発表/2025-10-23_中間発表練習.md",
-    "_update_test/Home/カンバン.md",
+    "_update_test/01_研究/推薦システム/01_研究_推薦システム.md",
+    "01_研究/推薦システム.md",
+    "01_研究",
     "_update_test/03_就活/フューチャー.md",
+    "_update_test/03_就活/軸.md",
+    "_update_test/Home/カンバン.md",
     "copilot/copilot-conversations/3._大目標である自分の望む人生を歩むにはどうしたらよいか？_-_結論、②の「自分自身で望む成果を手に入れる力_=_推進力」を身に付@20251024_170415.md",
     "copilot/copilot-conversations/このプラグインどうやってつかうの@20251024_135859.md",
     "_update_test/06_メモ/LINE/2025-05-11-560516092997403022.md",
     "_update_test/06_メモ/LINE/2025-10-26-584893083507228827.md",
     "_update_test/06_メモ/LINE/2025-10-26-584891549516038199.md",
     "_update_test/06_メモ/LINE",
-    "_update_test/Home/HOME.canvas",
     "Zettelkasten/PermanentNote/研究/中間発表/ストーリー再構築.md",
-    "_update_test/03_就活/軸.md",
     "LaTeX/Adversarial Collaborative Filtering for Free/Adversarial_Collaborative_Filtering_for_Free.pdf",
     "_update_test/00_自己管理",
     "_update_test/06_メモ",
@@ -286,9 +294,6 @@
     "_update_test/04_個別指導",
     "01_Projects/Project Dashboard.md",
     "01_Projects",
-    "_update_test/02_キュービック",
-    "_update_test/01_研究",
-    "_update_test/03_就活",
     "02_Knowledge/Research Index.md",
     "_update_test/04_個別指導/宗輔君_指導メモ.md",
     "_update_test/04_個別指導/2025-10-24_宗輔君人生変えプレゼン.md",
@@ -302,11 +307,6 @@
     "Zettelkasten/PermanentNote/研究/推薦システム.md",
     "Management/10月目標.md",
     "Zettelkasten/PermanentNote/研究/輪読ゼミ/輪読第13回.md",
-    "Zettelkasten/Zettelkastenアプローチ.md",
-    "Zettelkasten/PermanentNote/研究/論文/DV365 Extremely Long User History Modeling at Instagram/日本語訳+補足.md",
-    "Zettelkasten/PermanentNote/研究/論文/KuaiFormer：Transformer-Based Retrieval at Kuaishou/日本語訳 + 補足.md",
-    "_update_test/06_メモ/LINE/2025-10-10-582582885308694705.md",
-    "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/日本語訳+補足.md",
     "img/Pasted image 20250520200137.png",
     "img/Pasted image 20251009175255.png",
     "img/Pasted image 20251009175246.png",
