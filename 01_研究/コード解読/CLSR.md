@@ -306,3 +306,11 @@ flags.DEFINE_<type>(name, default, help, **kwargs)
 > [!NOTE] sys
 > [[Pythonのsys.pathとは？]]
 > 
+
+
+> [!NOTE] raw文字列リテラル
+> [[【Python初心者】正規表現とraw文字列リテラルの基礎まとめ]]
+
+
+> [!NOTE] 学習データ / 検証セット / テストセット
+> Contents
