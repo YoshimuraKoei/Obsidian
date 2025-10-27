@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_メモ/クリッピング/【Google謹製】簡単便利なPython引数解析【Abseil】.md",
+                "file": "01_研究/コード解読/CLSR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【Google謹製】簡単便利なPython引数解析【Abseil】"
+              "title": "CLSR"
             }
           }
         ],
@@ -281,8 +281,8 @@
   },
   "active": "eb8ec090278d1ee7",
   "lastOpenFiles": [
-    "01_研究/コード解読/CLSR.md",
     "06_メモ/クリッピング/【Google謹製】簡単便利なPython引数解析【Abseil】.md",
+    "01_研究/コード解読/CLSR.md",
     "06_メモ/クリッピング/Pythonで使用する if __name__ == '__main__' の意味.md",
     "06_メモ/クリッピング/Gitフローとブランチ命名規則.md",
     "05_ナレッジ/Programming/JSON.parse() and JSON.stringify().md",

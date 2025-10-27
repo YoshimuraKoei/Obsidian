@@ -284,3 +284,13 @@ tags:
 > [!NOTE] まとめ
 > 学習率やバッチサイズを変えると結果が変わるように、**これらは単なる固定値というより「調整可能なハイパーパラメータと実験設定のまとめ」**と捉える
 
+
+> [!NOTE] Abseil
+> [[【Google謹製】簡単便利なPython引数解析【Abseil】]]
+> ```
+> from absl import flags
+> FLAGS = flags.FLAGS
+> flags.DEFINE_string('dataset', 'taobao', 'Dataset name.')
+> ```
+> - 第1引数 
+> 
