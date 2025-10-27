@@ -329,5 +329,5 @@ flags.DEFINE_<type>(name, default, help, **kwargs)
 > 	- 訓練データ全体を1度学習し切る回数。毎エポックでデータの順番をシャッフルすることが多いが、必須ではない。
 
 
-> [!NOTE] イ
+> [!NOTE] イテレータ
 > Contents
