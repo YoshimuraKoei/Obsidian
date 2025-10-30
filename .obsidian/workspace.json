@@ -6,7 +6,6 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 50.46106557377049,
         "children": [
           {
             "id": "d3b915971c990ad8",
@@ -42,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/日本語訳+補足.md",
+                "file": "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日本語訳+補足"
+              "title": "日本語訳 + 補足"
             }
           },
           {
@@ -63,15 +62,7 @@
               "icon": "lucide-file",
               "title": "論文詳細メモ"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f8976b571039d071",
-        "type": "tabs",
-        "dimension": 49.53893442622951,
-        "children": [
+          },
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
@@ -80,7 +71,7 @@
               "state": {
                 "file": "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
                 "page": 1,
-                "left": 78,
+                "left": -18,
                 "top": 796,
                 "zoom": 1.4
               },
@@ -88,7 +79,8 @@
               "title": "SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5041847229004,
-    "collapsed": true
+    "width": 268.5041847229004
   },
   "right": {
     "id": "3fedf576311fe310",
@@ -319,15 +310,15 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "8a2b4162792023cd",
+  "active": "e52134a59a631a4f",
   "lastOpenFiles": [
+    "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/日本語訳+補足.md",
     "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
+    "Template/論文詳細メモ.md",
     "05_ナレッジ/研究/事前学習・表現学習.md",
     "06_メモ/クリッピング/表現学習とは何か.md",
     "05_ナレッジ/研究",
-    "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 翻訳.md",
-    "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/日本語訳+補足.md",
-    "Template/論文詳細メモ.md",
+    "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
     "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series",
     "01_研究/未確認 239855.crdownload",
     "03_就活/フューチャー.md",
