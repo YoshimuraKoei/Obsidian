@@ -64,10 +64,10 @@
               "type": "pdf",
               "state": {
                 "file": "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
-                "page": 7,
-                "left": 112,
-                "top": 759,
-                "zoom": 1.54
+                "page": 1,
+                "left": 79,
+                "top": 200,
+                "zoom": 1.4
               },
               "icon": "lucide-file-text",
               "title": "SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES"
@@ -277,7 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5
+    "width": 815.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,10 +306,10 @@
   },
   "active": "d3b915971c990ad8",
   "lastOpenFiles": [
+    "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
+    "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 翻訳.md",
     "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/日本語訳+補足.md",
     "Template/論文詳細メモ.md",
-    "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 翻訳.md",
-    "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
     "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series",
     "01_研究/未確認 239855.crdownload",
     "03_就活/フューチャー.md",
@@ -336,7 +336,6 @@
     "06_メモ/raw情報",
     "Template/Knowledge.md",
     "_update_test/01_研究/コード解読/CLSR.md",
-    "06_メモ/イシューレポート/WSL + Cursorターミナルにおける日本語入力不具合の発生と解決レポート.md",
     "06_メモ/クリッピング",
     "06_メモ/イシューレポート",
     "06_メモ/LINE",
