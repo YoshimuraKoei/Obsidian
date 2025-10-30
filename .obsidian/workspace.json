@@ -6,23 +6,8 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 50.46106557377049,
         "children": [
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
-                "page": 1,
-                "left": -7,
-                "top": 796,
-                "zoom": 2.2426470588235294
-              },
-              "icon": "lucide-file-text",
-              "title": "SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES"
-            }
-          },
           {
             "id": "d3b915971c990ad8",
             "type": "leaf",
@@ -37,8 +22,30 @@
               "title": "日本語訳 + 翻訳"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "f8976b571039d071",
+        "type": "tabs",
+        "dimension": 49.53893442622951,
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
+                "page": 1,
+                "left": 99,
+                "top": 686,
+                "zoom": 1.54
+              },
+              "icon": "lucide-file-text",
+              "title": "SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5041847229004
+    "width": 268.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "3fedf576311fe310",
@@ -236,11 +244,12 @@
               "title": "ChatGPT"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 672.5
   },
   "left-ribbon": {
     "hiddenItems": {
