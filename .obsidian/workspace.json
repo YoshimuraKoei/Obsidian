@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5041847229004
+    "width": 268.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "3fedf576311fe310",
@@ -286,12 +287,12 @@
               "title": "ChatGPT"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 713.5
+    "width": 713.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,11 +321,11 @@
   },
   "active": "8a2b4162792023cd",
   "lastOpenFiles": [
-    "06_メモ/クリッピング/表現学習とは何か.md",
+    "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
     "05_ナレッジ/研究/事前学習・表現学習.md",
+    "06_メモ/クリッピング/表現学習とは何か.md",
     "05_ナレッジ/研究",
     "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 翻訳.md",
-    "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
     "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/日本語訳+補足.md",
     "Template/論文詳細メモ.md",
     "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series",
@@ -351,7 +352,6 @@
     "05_ナレッジ/Programming/Docker/無題のファイル.md",
     "06_メモ/raw情報/Kiro ウェビナー.md",
     "06_メモ/raw情報",
-    "Template/Knowledge.md",
     "06_メモ/クリッピング",
     "06_メモ/イシューレポート",
     "06_メモ/LINE",
