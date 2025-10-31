@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "0c75913737acbd9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,28 @@
               },
               "icon": "lucide-file",
               "title": "日本語訳 + 補足"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dc756c771b821152",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
+                "page": 1,
+                "left": -12,
+                "top": 150,
+                "zoom": 1.2916666666666667
+              },
+              "icon": "lucide-file-text",
+              "title": "SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES"
             }
           }
         ]
@@ -251,13 +273,13 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0c75913737acbd9d",
   "lastOpenFiles": [
+    "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
     "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
     "05_ナレッジ/研究/事前学習・表現学習.md",
     "Template/論文詳細メモ.md",
     "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/日本語訳+補足.md",
-    "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
     "06_メモ/クリッピング/表現学習とは何か.md",
     "05_ナレッジ/研究",
     "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series",
