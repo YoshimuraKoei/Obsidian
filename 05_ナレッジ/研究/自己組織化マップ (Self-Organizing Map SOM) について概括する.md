@@ -38,8 +38,8 @@ tags:
 まず潜在空間 $Z$ を閉区間とします（下のpython実装ではその領域については $\mathcal{Z}=[−1,1]^L$ としてあります）．  
 次に潜在空間全体を $K$ 個の代表点（これをノードと呼ぶ）で離散表現します． $k$ 番ノードの座標を $\zeta_k∈\mathcal{Z}$  とおきます．  
 これらの制約によって，写像 $f$ 全体は各ノード座標 $\{\zeta_k\}_{k=1}^K$ からの $K$ 個の写像 $\mathbf{y}_k=f(\zeta_k)$ によって離散表現できます（この $\mathbf{y}_k$ を参照ベクトルと呼ぶ）．  
-また，各データの潜在変数 $\mathbf{z}_n$ は ${ζ1,⋯,ζK}$ のいずれかとなるため， $zn$ に対応するノード（これを勝者ノードと呼ぶ）のノード番号さえわかれば良いということになります． $zn$ の勝者ノードのノード番号を $kn∗$ と記述します．  
-以上の制約により，上記の **潜在変数 ${zn}n=1N$ と写像 $f$ の推定** という問題設定が **勝者ノード番号 ${kn∗}n=1N$ と写像の離散表現 $Y$ の推定** におきかわります．
+また，各データの潜在変数 $\mathbf{z}_n$ は $\{\zeta_1,\cdots,\zeta_K\}$ のいずれかとなるため， $\mathbf{z}_n$ に対応するノード（これを勝者ノードと呼ぶ）のノード番号さえわかれば良いということになります． $\mathbf{z}_n$ の勝者ノードのノード番号を $k_n^*$ と記述します．  
+以上の制約により，上記の **潜在変数 $\{\mathbf{z}_n\}_{n=1}^N$ と写像 $f$ の推定** という問題設定が **勝者ノード番号 $\{k_n^*\}_{n=1}^N$ と写像の離散表現 $\mathbf{Y}$ の推定** におきかわります．
 
 以上を踏まえて，SOMの概念図は以下の通りです．  
 [![fig3.png](https://qiita-image-store.s3.amazonaws.com/0/309504/ef1412dd-155d-f7fd-3f6b-f26fd033a277.png)](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F309504%2Fef1412dd-155d-f7fd-3f6b-f26fd033a277.png?ixlib=rb-4.0.0&auto=format&gif-q=60&q=75&s=60e9b445466faa2816c2586f2315ffb8)
@@ -48,7 +48,7 @@ tags:
 
 ## アルゴリズム
 
-アルゴリズムの説明や導出などの詳細については『自己組織化マップ入門 <sup><a href="https://qiita.com/tohru-iwasaki/items/#fn-intro-som">1</a></sup> 』をご覧ください．  
+アルゴリズムの説明や導出などの詳細については『[自己組織化マップ入門](https://www.brain.kyutech.ac.jp/~furukawa/wp/data/som.html)』をご覧ください．  
 実装するものは以下の3つの手続きです．  
 はじめに初期化をしたのち，E step と M step を繰り返します．
 
