@@ -11,14 +11,16 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "06_メモ/クリッピング/英語論文をさくっと日本語ブログ化してくれるalphaXivが便利.md",
-                "mode": "source",
-                "source": false
+                "file": "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
+                "page": 2,
+                "left": -9,
+                "top": 338,
+                "zoom": 1.8737745098039216
               },
-              "icon": "lucide-file",
-              "title": "英語論文をさくっと日本語ブログ化してくれるalphaXivが便利"
+              "icon": "lucide-file-text",
+              "title": "SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES"
             }
           }
         ]
@@ -253,11 +255,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
     "01_研究/深層学習/青本/第2章.md",
     "06_メモ/クリッピング/英語論文をさくっと日本語ブログ化してくれるalphaXivが便利.md",
     "01_研究/深層学習/青本/第1章.md",
     "01_研究/コード解読/CLSR.md",
-    "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
     "Zettelkasten/PermanentNote/研究/数学/Softmax関数.md",
     "Zettelkasten/PermanentNote/研究/手法/Transformer.md",
     "01_研究/深層学習/青本",
