@@ -11,16 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
-                "page": 2,
-                "left": -9,
-                "top": 338,
-                "zoom": 1.8737745098039216
+                "file": "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES"
+              "icon": "lucide-file",
+              "title": "日本語訳 + 補足"
             }
           }
         ]
@@ -255,6 +253,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
     "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
     "01_研究/深層学習/青本/第2章.md",
     "06_メモ/クリッピング/英語論文をさくっと日本語ブログ化してくれるalphaXivが便利.md",
@@ -264,7 +263,6 @@
     "Zettelkasten/PermanentNote/研究/手法/Transformer.md",
     "01_研究/深層学習/青本",
     "01_研究/深層学習",
-    "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
     "05_ナレッジ/研究/事前学習・表現学習.md",
     "Template/論文詳細メモ.md",
     "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/日本語訳+補足.md",
@@ -287,7 +285,6 @@
     "05_ナレッジ/Programming/Git/(未) Gitフローとブランチ命名規則.md",
     "05_ナレッジ/Programming/Git",
     "05_ナレッジ/Programming/API/ISBNによる書籍検索を最速で行うAPI、openBDの紹介.md",
-    "05_ナレッジ/Programming/Docker/Docker入門.md",
     "06_メモ/raw情報",
     "06_メモ/クリッピング",
     "06_メモ/イシューレポート",
