@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_メモ/クリッピング/Variational Autoencoder徹底解説.md",
+                "file": "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variational Autoencoder徹底解説"
+              "title": "日本語訳 + 補足"
             }
           },
           {
@@ -282,8 +282,8 @@
   },
   "active": "16a9edb33470d677",
   "lastOpenFiles": [
-    "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
     "06_メモ/クリッピング/Variational Autoencoder徹底解説.md",
+    "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
     "05_ナレッジ/研究/定義関数(指示関数,特性関数)とは.md",
     "05_ナレッジ/研究/自己組織化マップ (Self-Organizing Map SOM) について概括する.md",
     "05_ナレッジ/研究/事前学習・表現学習.md",
