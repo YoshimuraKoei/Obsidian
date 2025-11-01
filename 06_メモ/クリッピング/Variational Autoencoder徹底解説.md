@@ -13,6 +13,11 @@ tags:
 ---
 ![](https://relay-dsp.ad-m.asia/dmp/sync/bizmatrix?pid=c3ed207b574cf11376&d=x18o8hduaj&uid=3999280)
 
+
+> [!NOTE] VAE解説
+> 画像と動画ががめっちゃ分かりやすい。
+
+
 この記事は最終更新日から1年以上が経過しています。
 
 こんにちは、DeNAでデータサイエンティストをやっているまつけんです。
