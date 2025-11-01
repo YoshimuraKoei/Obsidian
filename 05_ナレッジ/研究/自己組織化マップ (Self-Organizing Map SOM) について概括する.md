@@ -23,12 +23,12 @@ tags:
 
 （数式をいくつか出しますが，ひとまず図をざっくり理解してもらえれば大丈夫です．大雑把に言えば「データセットが与えられたときにその **潜在変数** と(潜在空間から観測空間への) **写像** を推定しましょう」という話です．）
 
-まず与えられる $N$ 個の観測データを $X={xn}n=1N, xn∈X$ とします．ここで $X$ は高次元の観測空間で， $D$ 次元のユークリッド空間とします．つまり $X=RD$ であり，データ全体は $X∈RN×D$ と表せます．  
+まず与えられる $N$ 個の観測データを $\mathbf{X}=\{\mathbf{x}_n\}_{n=1}^N, \mathbf{x}_n∈ \mathcal{X}$ とします．ここで $\mathcal{X}$ は高次元の観測空間で， $D$ 次元のユークリッド空間とします．つまり $\mathcal{X}=\mathbb{R}^D$ であり，データ全体は $X∈\mathbb{R}^{N×D}$ と表せます．  
 図を書くと以下のような感じですね．
 
 [![fig1.png](https://qiita-image-store.s3.amazonaws.com/0/309504/b50c1a9c-b352-cbde-5135-01dd3a41811a.png)](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F309504%2Fb50c1a9c-b352-cbde-5135-01dd3a41811a.png?ixlib=rb-4.0.0&auto=format&gif-q=60&q=75&s=f89e3066e774c1e990579fb105d3da61)
 
-これらのデータが **潜在変数** $Z={zn}n=1N, zn∈Z$ と **写像** $f:Z⟶X$ によって， $xn=f(zn)+εn$ という形式で生成される，と仮定します．ここで $Z$ は低次元の潜在空間であり，潜在空間の次元 $L$ は観測空間の次元よりも小さい $(L<D)$ とします．また写像 $f$ は滑らかな非線形写像とします．この仮定のもとで， **潜在変数 ${zn}n=1N$ と写像 $f$ を推定することが目的** となります．  
+これらのデータが **潜在変数** $\mathbf{Z}=\{\mathbf{z}_n\}_{n=1}^N, \mathbf{z}_n∈Z$ と **写像** $f:Z⟶X$ によって， $xn=f(zn)+εn$ という形式で生成される，と仮定します．ここで $Z$ は低次元の潜在空間であり，潜在空間の次元 $L$ は観測空間の次元よりも小さい $(L<D)$ とします．また写像 $f$ は滑らかな非線形写像とします．この仮定のもとで， **潜在変数 ${zn}n=1N$ と写像 $f$ を推定することが目的** となります．  
 ここまでの目的を概念図にすると以下のような感じです．
 
 [![fig2.png](https://qiita-image-store.s3.amazonaws.com/0/309504/1579deb1-c3a5-0f25-5b9c-32c94f1a79b4.png)](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.amazonaws.com%2F0%2F309504%2F1579deb1-c3a5-0f25-5b9c-32c94f1a79b4.png?ixlib=rb-4.0.0&auto=format&gif-q=60&q=75&s=c3472a93a8f9cd8926bdb3279eb90cd5)  
