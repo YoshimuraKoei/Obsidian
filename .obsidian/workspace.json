@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
+                "file": "06_メモ/クリッピング/Variational Autoencoder徹底解説.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日本語訳 + 補足"
+              "title": "Variational Autoencoder徹底解説"
             }
           },
           {
@@ -282,8 +282,9 @@
   },
   "active": "16a9edb33470d677",
   "lastOpenFiles": [
-    "05_ナレッジ/研究/定義関数(指示関数,特性関数)とは.md",
     "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
+    "06_メモ/クリッピング/Variational Autoencoder徹底解説.md",
+    "05_ナレッジ/研究/定義関数(指示関数,特性関数)とは.md",
     "05_ナレッジ/研究/自己組織化マップ (Self-Organizing Map SOM) について概括する.md",
     "05_ナレッジ/研究/事前学習・表現学習.md",
     "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/無題のファイル.md",
@@ -316,7 +317,6 @@
     "06_メモ/クリッピング/Gitフローとブランチ命名規則.md",
     "06_メモ/クリッピング/【Google謹製】簡単便利なPython引数解析【Abseil】.md",
     "06_メモ/クリッピング/Pythonで使用する if __name__ == '__main__' の意味.md",
-    "05_ナレッジ/Programming/JSON.parse() and JSON.stringify().md",
     "05_ナレッジ/Programming/Git",
     "06_メモ/raw情報",
     "Home/HOME.canvas",
