@@ -8,68 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c75913737acbd9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "日本語訳 + 補足"
-            }
-          },
-          {
-            "id": "b28f5041985e92dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_研究/深層学習/青本/第1章.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第1章"
-            }
-          },
-          {
-            "id": "cbf43aee0c4d3280",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_研究/深層学習/青本/第2章.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第2章"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "dc756c771b821152",
-        "type": "tabs",
-        "children": [
-          {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
-                "page": 2,
-                "left": -18,
-                "top": 330,
-                "zoom": 0.9056372549019609
+                "file": "06_メモ/クリッピング/英語論文をさくっと日本語ブログ化してくれるalphaXivが便利.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES"
+              "icon": "lucide-file",
+              "title": "英語論文をさくっと日本語ブログ化してくれるalphaXivが便利"
             }
           }
         ]
@@ -151,7 +100,7 @@
       {
         "id": "82a852ee0c3a1eb5",
         "type": "tabs",
-        "dimension": 24.307958477508652,
+        "dimension": 24.30795847750865,
         "children": [
           {
             "id": "f55a9e046f63daa4",
@@ -302,14 +251,15 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "cbf43aee0c4d3280",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01_研究/深層学習/青本/第2章.md",
+    "06_メモ/クリッピング/英語論文をさくっと日本語ブログ化してくれるalphaXivが便利.md",
     "01_研究/深層学習/青本/第1章.md",
     "01_研究/コード解読/CLSR.md",
     "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
     "Zettelkasten/PermanentNote/研究/数学/Softmax関数.md",
     "Zettelkasten/PermanentNote/研究/手法/Transformer.md",
-    "01_研究/深層学習/青本/第2章.md",
     "01_研究/深層学習/青本",
     "01_研究/深層学習",
     "01_研究/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
@@ -336,7 +286,6 @@
     "05_ナレッジ/Programming/Git",
     "05_ナレッジ/Programming/API/ISBNによる書籍検索を最速で行うAPI、openBDの紹介.md",
     "05_ナレッジ/Programming/Docker/Docker入門.md",
-    "05_ナレッジ/Programming/Docker/Docker Compose 講座.md",
     "06_メモ/raw情報",
     "06_メモ/クリッピング",
     "06_メモ/イシューレポート",
