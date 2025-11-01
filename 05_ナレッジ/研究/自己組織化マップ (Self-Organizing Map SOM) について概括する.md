@@ -12,6 +12,21 @@ tags:
 ---
 ![](https://relay-dsp.ad-m.asia/dmp/sync/bizmatrix?pid=c3ed207b574cf11376&d=x18o8hduaj&uid=3999280)
 
+
+> [!NOTE] 自己組織化マップ (SOM)
+> - この記事の解説
+> - [福原研究室の簡易解説](https://www.brain.kyutech.ac.jp/~furukawa/wp/data/som.html)
+> - [福原研究室の詳細なドキュメント](https://www.brain.kyutech.ac.jp/~furukawa/wp/data/SOMtext.pdf)
+
+
+> [!NOTE] 発展
+> 福原研究室では、SOM の発展形を[ココ](https://www.brain.kyutech.ac.jp/~furukawa/data/)で考案している。
+> - [モジュラーネットワーク型自己組織化マップ (mnSOM)](https://www.brain.kyutech.ac.jp/~furukawa/wp/data/mnsom.html)
+> - [高階自己組織化マップ (SOM^2)](https://www.brain.kyutech.ac.jp/~furukawa/wp/data/som2.html)
+> - [テンソル自己組織化マップ (TSOM)]
+
+
+
 この記事は最終更新日から3年以上が経過しています。
 
 [ZOZOテクノロジーズその2 Advent Calendar 2018](https://qiita.com/advent-calendar/2018/zozo_tech2) の23日目の記事になります．
