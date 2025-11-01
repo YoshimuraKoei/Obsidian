@@ -25,9 +25,25 @@
             "id": "16a9edb33470d677",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series/TS2Vec：Towards Universal Representation of Time Series.pdf",
+                "page": 1,
+                "left": -9,
+                "top": 796,
+                "zoom": 1.8737745098039216
+              },
+              "icon": "lucide-file-text",
+              "title": "TS2Vec：Towards Universal Representation of Time Series"
+            }
+          },
+          {
+            "id": "75d74c4ad032fa24",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
+                "file": "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series/日本語訳 + 補足.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,21 +52,23 @@
             }
           },
           {
-            "id": "6ccff58cd50e84e4",
+            "id": "064cb4b72cf4158a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "05_ナレッジ/研究/自己組織化マップ (Self-Organizing Map SOM) について概括する.md",
-                "mode": "source",
-                "source": false
+                "file": "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series/TS2Vec：Towards Universal Representation of Time Series.pdf",
+                "page": 1,
+                "left": -9,
+                "top": 796,
+                "zoom": 1.8737745098039216
               },
-              "icon": "lucide-file",
-              "title": "自己組織化マップ (Self-Organizing Map SOM) について概括する"
+              "icon": "lucide-file-text",
+              "title": "TS2Vec：Towards Universal Representation of Time Series"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -280,15 +298,19 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "16a9edb33470d677",
+  "active": "75d74c4ad032fa24",
   "lastOpenFiles": [
-    "01_研究/論文/TS2Vec/TS2Vec.pdf",
-    "01_研究/論文/TS2Vec",
+    "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series/TS2Vec：Towards Universal Representation of Time Series.pdf",
+    "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series/日本語訳 + 補足.md",
+    "05_ナレッジ/研究/自己組織化マップ (Self-Organizing Map SOM) について概括する.md",
+    "Template/論文詳細メモ.md",
+    "Template/Next.jsで学ぶReact講座.md",
+    "Template/Knowledge.md",
+    "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
+    "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series",
     "01_研究/論文/新しいフォルダー",
     "06_メモ/クリッピング/Variational Autoencoder徹底解説.md",
-    "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
     "05_ナレッジ/研究/定義関数(指示関数,特性関数)とは.md",
-    "05_ナレッジ/研究/自己組織化マップ (Self-Organizing Map SOM) について概括する.md",
     "05_ナレッジ/研究/事前学習・表現学習.md",
     "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/無題のファイル.md",
     "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
@@ -303,12 +325,10 @@
     "Zettelkasten/PermanentNote/研究/手法/Transformer.md",
     "01_研究/深層学習/青本",
     "01_研究/深層学習",
-    "Template/論文詳細メモ.md",
     "Zettelkasten/PermanentNote/研究/論文/Disentangling Long and Short-Term Interests for Recommendation/日本語訳+補足.md",
     "06_メモ/クリッピング/表現学習とは何か.md",
     "05_ナレッジ/研究",
     "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series",
-    "01_研究/未確認 239855.crdownload",
     "03_就活/フューチャー.md",
     "03_就活/企業研究.md",
     "06_メモ/クリッピング/Pythonのイテラブルとは何かを現役エンジニアが解説【初心者向け】.md",
@@ -316,9 +336,6 @@
     "06_メモ/クリッピング/Pythonでコマンドラインからpickleの中身を確認する.md",
     "06_メモ/クリッピング/【Python初心者】正規表現とraw文字列リテラルの基礎まとめ.md",
     "06_メモ/クリッピング/pythonのos.path.joinについてざっくりまとめる.md",
-    "06_メモ/クリッピング/Pythonのsys.pathとは？.md",
-    "06_メモ/クリッピング/Gitフローとブランチ命名規則.md",
-    "06_メモ/クリッピング/【Google謹製】簡単便利なPython引数解析【Abseil】.md",
     "Home/HOME.canvas",
     "_update_test/Home/HOME.canvas",
     "img/Pasted image 20251024175005.png",
