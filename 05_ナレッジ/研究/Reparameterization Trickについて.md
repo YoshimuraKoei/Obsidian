@@ -13,6 +13,18 @@ tags:
 ---
 ![](https://relay-dsp.ad-m.asia/dmp/sync/bizmatrix?pid=c3ed207b574cf11376&d=x18o8hduaj&uid=3999280)
 
+
+> [!NOTE] Reparameterization Trick
+> VAE などで損失関数を最小化するために、勾配降下法を使ってパラメータを更新する必要がある。
+> だが、
+> $$
+> 	z \approx N(\mu, \sigma^2)
+> $$
+> というサンプリング操作は確率的で、乱数に依存する非決定的な操作。
+> だから $\frac{\partial z}{\partial \mu}$, $\frac{\partial z}{\partial \sigma}$
+> が計算できない。
+
+
 IPFactory Advent Calender 2024 2日目の記事です。
 
 Reparameterization Trick は、変分オートエンコーダー (Variational Autoencoder, VAE)  
