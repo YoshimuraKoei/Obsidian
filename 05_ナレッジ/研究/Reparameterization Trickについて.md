@@ -23,6 +23,14 @@ tags:
 > というサンプリング操作は確率的で、**乱数に依存する**非決定的な操作。だから $\frac{\partial z}{\partial \mu}$, $\frac{\partial z}{\partial \sigma}$ が計算できない。
 > 具体的には、 $\mu$ を少し増やして再度実行すると、乱数に依存するので $z$ が確率的に変わってしまい、 更新によって $z$ の値がどうなったのか一貫しない。
 > 一方、 $z = \mu + \sigma \cdot \epsilon, \; \epsilon \approx \mathcal{N}(0,1)$ とすれば、 $\epsilon$ は確率的だが、 $\mu$ と $\sigma$ に依存しなくなり、 $\frac{\partial z}{\partial \mu} = 1, \frac{\partial z}{\partial \sigma} = \epsilon$ となる。
+> 更新時に使う勾配は、
+> $$
+> 	\frac{\partial L}{\partial \mu} = \frac{\partial L}{\partial z} \cdot \frac{\partial z}{\partial \mu} = \frac{\partial L}{\partial z} \cdot 1
+> $$
+> $$
+> 	\frac{\partial L}{\partial \sigma} = \frac{\partial L}{\partial z} \cdot \frac{\partial z}{\partial \sigma} = \frac{\partial L}{\partial z} \cdot \epsilon
+> $$
+> である。
 
 IPFactory Advent Calender 2024 2日目の記事です。
 
