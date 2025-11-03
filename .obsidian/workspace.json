@@ -72,7 +72,7 @@
                 "file": "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
                 "page": 6,
                 "left": -7,
-                "top": 763,
+                "top": 262,
                 "zoom": 2.377450980392157
               },
               "icon": "lucide-file-text",
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -310,10 +310,10 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "a733d0799860fa84",
+  "active": "3a9b0db15e9e2eb7",
   "lastOpenFiles": [
-    "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/日本語訳 + 補足.md",
     "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
+    "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/日本語訳 + 補足.md",
     "assets/Pasted image 20251103201958.png",
     "assets/Pasted image 20251103201944.png",
     "assets/Pasted image 20251103201359.png",
