@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_ナレッジ/研究/SOM：自己組織化マップ.md",
+                "file": "05_ナレッジ/研究/KLダイバージェンス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOM：自己組織化マップ"
+              "title": "KLダイバージェンス"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -294,16 +294,16 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "ef556e45f718dbc7",
+  "active": "386629b3062dfc3a",
   "lastOpenFiles": [
-    "assets/Pasted image 20251103150229.png",
-    "assets/Pasted image 20251103150142.png",
+    "05_ナレッジ/研究/SOM：自己組織化マップ.md",
     "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/日本語訳 + 補足.md",
     "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/メモ.md",
+    "assets/Pasted image 20251103150229.png",
+    "assets/Pasted image 20251103150142.png",
     "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIAGTE TIME SERIES GENERATION.pdf",
     "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series/日本語訳 + 補足.md",
     "05_ナレッジ/研究/VAE.md",
-    "05_ナレッジ/研究/SOM：自己組織化マップ.md",
     "05_ナレッジ/研究/KLダイバージェンス.md",
     "05_ナレッジ/研究/定義関数(指示関数,特性関数)とは.md",
     "05_ナレッジ/研究/表現学習と事前学習.md",
@@ -342,7 +342,6 @@
     "img/Pasted image 20251024150008.png",
     "img/Pasted image 20250520200137.png",
     "img/Pasted image 20251009175255.png",
-    "img/Pasted image 20251009175246.png",
-    "img/Pasted image 20250807202430.png"
+    "img/Pasted image 20251009175246.png"
   ]
 }
