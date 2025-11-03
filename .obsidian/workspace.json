@@ -62,9 +62,25 @@
               "icon": "lucide-file",
               "title": "第3章 確率的勾配降下法"
             }
+          },
+          {
+            "id": "a733d0799860fa84",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
+                "page": 6,
+                "left": -7,
+                "top": 763,
+                "zoom": 2.377450980392157
+              },
+              "icon": "lucide-file-text",
+              "title": "SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -294,8 +310,10 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "3a9b0db15e9e2eb7",
+  "active": "a733d0799860fa84",
   "lastOpenFiles": [
+    "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/日本語訳 + 補足.md",
+    "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
     "assets/Pasted image 20251103201958.png",
     "assets/Pasted image 20251103201944.png",
     "assets/Pasted image 20251103201359.png",
@@ -303,7 +321,6 @@
     "assets/Pasted image 20251103200435.png",
     "assets/Pasted image 20251103164703.png",
     "05_ナレッジ/研究/Reparameterization Trickについて.md",
-    "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/日本語訳 + 補足.md",
     "05_ナレッジ/研究/KLダイバージェンス.md",
     "01_研究/深層学習/青本/第3章 確率的勾配降下法.md",
     "03_就活/LINE Yahoo 試験メモ.md",
@@ -328,9 +345,7 @@
     "Template/Knowledge.md",
     "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series",
     "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/無題のファイル.md",
-    "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/SOM-VAE：INTERPRETABLE DISCRETE REPRESENTATION LEARNING ON TIME SERIES.pdf",
     "01_研究/論文",
-    "assets/Pasted image 20251101192808.png",
     "assets",
     "06_メモ/クリッピング/英語論文をさくっと日本語ブログ化してくれるalphaXivが便利.md",
     "01_研究/コード解読/CLSR.md",
