@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_研究/深層学習/青本/第3章 確率的勾配降下法.md",
+                "file": "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/日本語訳 + 補足.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第3章 確率的勾配降下法"
+              "title": "日本語訳 + 補足"
             }
           }
         ],
@@ -268,8 +268,8 @@
   },
   "active": "386629b3062dfc3a",
   "lastOpenFiles": [
-    "01_研究/深層学習/青本/第1章 はじめに.md",
     "01_研究/深層学習/青本/第3章 確率的勾配降下法.md",
+    "01_研究/深層学習/青本/第1章 はじめに.md",
     "01_研究/深層学習/青本/第2章 ネットワークの基本構造.md",
     "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/日本語訳 + 補足.md",
     "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series/日本語訳 + 補足.md",
