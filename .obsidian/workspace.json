@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series/日本語訳 + 補足.md",
+                "file": "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/日本語訳 + 補足.md",
                 "mode": "source",
                 "source": false
               },
@@ -282,6 +282,8 @@
   },
   "active": "3a9b0db15e9e2eb7",
   "lastOpenFiles": [
+    "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIAGTE TIME SERIES GENERATION.pdf",
+    "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series/日本語訳 + 補足.md",
     "05_ナレッジ/研究/VAE.md",
     "05_ナレッジ/研究/SOM：自己組織化マップ.md",
     "05_ナレッジ/研究/KLダイバージェンス.md",
@@ -291,9 +293,7 @@
     "01_研究/深層学習/青本/第3章 確率的勾配降下法.md",
     "01_研究/深層学習/青本/第1章 はじめに.md",
     "01_研究/深層学習/青本/第2章 ネットワークの基本構造.md",
-    "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series/日本語訳 + 補足.md",
     "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
-    "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIAGTE TIME SERIES GENERATION.pdf",
     "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION",
     "01_研究/論文/新しいフォルダー",
     "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series/TS2Vec：Towards Universal Representation of Time Series.pdf",
@@ -318,7 +318,6 @@
     "03_就活/企業研究.md",
     "06_メモ/クリッピング/Pythonのイテラブルとは何かを現役エンジニアが解説【初心者向け】.md",
     "06_メモ/クリッピング/【初心者】ネコでも分かる「学習回数」ってなに？【図解】.md",
-    "06_メモ/クリッピング/Pythonでコマンドラインからpickleの中身を確認する.md",
     "Home/HOME.canvas",
     "_update_test/Home/HOME.canvas",
     "img/Pasted image 20251024175005.png",
