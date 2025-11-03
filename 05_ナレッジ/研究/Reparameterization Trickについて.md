@@ -20,10 +20,9 @@ tags:
 > $$
 > 	z \approx N(\mu, \sigma^2)
 > $$
-> というサンプリング操作は確率的で、乱数に依存する非決定的な操作。
-> だから $\frac{\partial z}{\partial \mu}$, $\frac{\partial z}{\partial \sigma}$
-> が計算できない。
-
+> というサンプリング操作は確率的で、**乱数に依存する**非決定的な操作。
+> だから $\frac{\partial z}{\partial \mu}$, $\frac{\partial z}{\partial \sigma}$ が計算できない。
+> 具体的には、 $\mu$ を少し増やして再度実行すると、乱数に依存するので $z$ が確率的に変わってしまい、 更新によって $z$ の値がどうなったのか一貫しない。
 
 IPFactory Advent Calender 2024 2日目の記事です。
 

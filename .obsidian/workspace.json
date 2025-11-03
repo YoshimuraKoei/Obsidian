@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_ナレッジ/研究/KLダイバージェンス.md",
+                "file": "05_ナレッジ/研究/Reparameterization Trickについて.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KLダイバージェンス"
+              "title": "Reparameterization Trickについて"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -294,14 +294,15 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "0ae9730d4725b432",
+  "active": "386629b3062dfc3a",
   "lastOpenFiles": [
+    "05_ナレッジ/研究/KLダイバージェンス.md",
+    "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/日本語訳 + 補足.md",
+    "01_研究/深層学習/青本/第3章 確率的勾配降下法.md",
     "05_ナレッジ/研究/Reparameterization Trickについて.md",
     "03_就活/LINE Yahoo 試験メモ.md",
-    "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/日本語訳 + 補足.md",
     "assets/Pasted image 20251103153851.png",
     "assets/Pasted image 20251103153847.png",
-    "05_ナレッジ/研究/KLダイバージェンス.md",
     "05_ナレッジ/研究/SOM：自己組織化マップ.md",
     "assets/Pasted image 20251103150229.png",
     "assets/Pasted image 20251103150142.png",
@@ -310,7 +311,6 @@
     "05_ナレッジ/研究/VAE.md",
     "05_ナレッジ/研究/定義関数(指示関数,特性関数)とは.md",
     "05_ナレッジ/研究/表現学習と事前学習.md",
-    "01_研究/深層学習/青本/第3章 確率的勾配降下法.md",
     "01_研究/深層学習/青本/第1章 はじめに.md",
     "01_研究/深層学習/青本/第2章 ネットワークの基本構造.md",
     "01_研究/論文/SOM-VAE_Interpretable Discrete Representation Learning on Time Series/日本語訳 + 補足.md",
