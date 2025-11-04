@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_就活/フューチャー.md",
+                "file": "01_研究/深層学習/青本/第3章 確率的勾配降下法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "フューチャー"
+              "title": "第3章 確率的勾配降下法"
             }
           }
         ]
@@ -176,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_update_test/00_Home/2025-10-24_宗輔君人生変えプレゼン.md",
+                "file": "01_研究/深層学習/青本/第3章 確率的勾配降下法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-10-24_宗輔君人生変えプレゼンからのアウトゴーイングリンク"
+              "title": "第3章 確率的勾配降下法からのアウトゴーイングリンク"
             }
           },
           {
@@ -219,7 +219,8 @@
               "title": "ChatGPT"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -253,8 +254,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "06_メモ/クリッピング/SAPとは  GSLコラム  NTTデータ グローバルソリューションズ.md",
     "03_就活/フューチャー.md",
+    "06_メモ/クリッピング/SAPとは  GSLコラム  NTTデータ グローバルソリューションズ.md",
     "01_研究/推薦システムナレッジ/推薦システム.md",
     "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/日本語訳 + 補足.md",
     "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series/日本語訳 + 補足.md",
