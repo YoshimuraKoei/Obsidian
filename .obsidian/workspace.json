@@ -35,8 +35,7 @@
               "title": "フューチャー"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,11 +266,11 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "c07d68d6806a0402",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03_就活/フューチャー.md",
     "01_研究/深層学習/青本/第3章 確率的勾配降下法.md",
     "01_研究/深層学習/青本/第2章 ネットワークの基本構造.md",
-    "03_就活/フューチャー.md",
     "assets/Pasted image 20251106003501.png",
     "06_メモ/クリッピング/SAPとは  GSLコラム  NTTデータ グローバルソリューションズ.md",
     "01_研究/推薦システムナレッジ/推薦システム.md",
