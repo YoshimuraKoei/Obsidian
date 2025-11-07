@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -309,10 +309,10 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "d979cb2cc439067e",
+  "active": "c54819bfafb2eb67",
   "lastOpenFiles": [
-    "01_研究/深層学習/青本/第4章 誤差逆伝播法.md",
     "01_研究/論文/Disentangling Long and Short-Term Interests for Recommendation/日本語訳+補足.md",
+    "01_研究/深層学習/青本/第4章 誤差逆伝播法.md",
     "01_研究/深層学習/青本/第6章 系列データのためのネットワーク.md",
     "assets/PXL_20251107_101739895.jpg",
     "01_研究/深層学習/青本/第5章 畳み込みニューラルネットワーク.md",
