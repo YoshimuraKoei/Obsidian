@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -309,10 +309,12 @@
       "open-gate:Google Calendar": false
     }
   },
-  "active": "fb052e8860911777",
+  "active": "848ff34c26d778de",
   "lastOpenFiles": [
-    "06_メモ/クリッピング/”生き甲斐”を見つけるために -「Rice Work」から「Like Work」への階段を｜くぼちゃん🌸インタビューライター＆編集者.md",
     "00_管理/知的生産システム.md",
+    "assets/Pasted image 20251107131736.png",
+    "assets/Pasted image 20251107131708.png",
+    "06_メモ/クリッピング/”生き甲斐”を見つけるために -「Rice Work」から「Like Work」への階段を｜くぼちゃん🌸インタビューライター＆編集者.md",
     "01_研究/深層学習/青本/第5章 畳み込みニューラルネットワーク.md",
     "assets/PXL_20251106_152603810 1.jpg",
     "assets/PXL_20251106_152603810.jpg",
@@ -337,8 +339,6 @@
     "assets/Pasted image 20251103201944.png",
     "assets/Pasted image 20251103201359.png",
     "assets/Pasted image 20251103200832.png",
-    "assets/Pasted image 20251103200435.png",
-    "assets/Pasted image 20251103164703.png",
     "05_ナレッジ/研究/Reparameterization Trickについて.md",
     "05_ナレッジ/研究/KLダイバージェンス.md",
     "05_ナレッジ/研究/SOM：自己組織化マップ.md",
@@ -351,7 +351,6 @@
     "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION",
     "01_研究/論文/新しいフォルダー",
     "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series/TS2Vec：Towards Universal Representation of Time Series.pdf",
-    "Template/論文詳細メモ.md",
     "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series",
     "01_研究/論文",
     "assets",
