@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_研究/深層学習/青本/第5章 畳み込みニューラルネットワーク.md",
+                "file": "06_メモ/クリッピング/”生き甲斐”を見つけるために -「Rice Work」から「Like Work」への階段を｜くぼちゃん🌸インタビューライター＆編集者.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第5章 畳み込みニューラルネットワーク"
+              "title": "”生き甲斐”を見つけるために -「Rice Work」から「Like Work」への階段を｜くぼちゃん🌸インタビューライター＆編集者"
             }
           }
         ],
@@ -297,10 +297,11 @@
   },
   "active": "848ff34c26d778de",
   "lastOpenFiles": [
+    "01_研究/深層学習/青本/第5章 畳み込みニューラルネットワーク.md",
+    "06_メモ/クリッピング/”生き甲斐”を見つけるために -「Rice Work」から「Like Work」への階段を｜くぼちゃん🌸インタビューライター＆編集者.md",
     "assets/PXL_20251106_152603810 1.jpg",
     "assets/PXL_20251106_152603810.jpg",
     "01_研究/深層学習/青本/第4章 誤差逆伝播法.md",
-    "01_研究/深層学習/青本/第5章 畳み込みニューラルネットワーク.md",
     "assets/PXL_20251106_105510287.jpg",
     "06_メモ/クリッピング/畳み込みネットワークCNN（Convolutional neural network）.md",
     "00_管理/サブスク管理.md",
@@ -325,7 +326,6 @@
     "assets/Pasted image 20251103164703.png",
     "05_ナレッジ/研究/Reparameterization Trickについて.md",
     "05_ナレッジ/研究/KLダイバージェンス.md",
-    "assets/Pasted image 20251103153851.png",
     "05_ナレッジ/研究/SOM：自己組織化マップ.md",
     "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIAGTE TIME SERIES GENERATION.pdf",
     "05_ナレッジ/研究/VAE.md",
