@@ -36,6 +36,22 @@
             }
           },
           {
+            "id": "9cc82992d7d219d2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIAGTE TIME SERIES GENERATION.pdf",
+                "page": 2,
+                "left": -268,
+                "top": 767,
+                "zoom": 1.44
+              },
+              "icon": "lucide-file-text",
+              "title": "TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIAGTE TIME SERIES GENERATION"
+            }
+          },
+          {
             "id": "a03be471f0448d5c",
             "type": "leaf",
             "state": {
@@ -64,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -297,8 +313,9 @@
   },
   "active": "a03be471f0448d5c",
   "lastOpenFiles": [
-    "05_ナレッジ/研究/VAE (Variational Autoencoder).md",
+    "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIAGTE TIME SERIES GENERATION.pdf",
     "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/日本語訳 + 補足.md",
+    "05_ナレッジ/研究/VAE (Variational Autoencoder).md",
     "01_研究/深層学習/青本/第7章 集合・グラフのためのネットワークと注意機構.md",
     "無題のファイル.canvas",
     "01_研究/深層学習/青本/第6章 系列データのためのネットワーク.md",
@@ -334,7 +351,6 @@
     "05_ナレッジ/研究/Reparameterization Trickについて.md",
     "05_ナレッジ/研究/KLダイバージェンス.md",
     "05_ナレッジ/研究/SOM：自己組織化マップ.md",
-    "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIAGTE TIME SERIES GENERATION.pdf",
     "01_研究/論文/TimeVAE：A VARIATIONAL AUTO-ENCODER FOR MULTIVARIATE TIME SERIES GENERATION",
     "01_研究/論文/新しいフォルダー",
     "01_研究/論文/TS2Vec：Towards Universal Represensation of Time Series/TS2Vec：Towards Universal Representation of Time Series.pdf",
